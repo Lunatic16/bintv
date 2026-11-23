@@ -14,6 +14,18 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 
 ---
 
+## Screenshots
+
+![Web viewer — 24/7 channels](docs/screenshots/viewer-247.png)
+
+| Viewer — live events | Admin panel |
+| --- | --- |
+| ![Viewer — live events](docs/screenshots/viewer-events.png) | ![Admin panel](docs/screenshots/admin.png) |
+
+<!-- Screenshots live in docs/screenshots/ — regenerate any time the UI changes -->
+
+---
+
 ## Highlights
 
 **Web viewer** (`/`)
