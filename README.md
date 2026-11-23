@@ -27,7 +27,7 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 | ![Playlists dialog](docs/screenshots/playlists.png) | ![Fullscreen player](docs/screenshots/fullscreen.png) |
 | Mobile | Browser Tiled |
 | --- | --- |
-| ![Mobile](docs/screenshots/viewer-mobile.png) | ![Browser Tiled ](docs/screenshots/browser-tiled.png) |
+| <img src="docs/screenshots/viewer-mobile.png" width="240" alt="Mobile viewer"> | ![Browser Tiled ](docs/screenshots/browser-tiled.png) |
 <!-- Screenshots live in docs/screenshots/ — regenerate any time the UI changes -->
 
 ---
