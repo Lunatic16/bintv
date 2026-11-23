@@ -16,22 +16,6 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 
 ---
 
-## Table of contents
-
-- [Highlights](#highlights)
-- [Architecture](#architecture)
-- [Quick start](#quick-start)
-- [Configuration](#configuration)
-- [Data files](#data-files)
-- [Playlists & EPG](#playlists--epg)
-- [Player setup](#player-setup)
-- [REST API](#rest-api)
-- [BinTV Public API feed](#bintv-public-api-feed)
-- [Stream proxy](#stream-proxy)
-- [Development](#development)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-
 ## Highlights
 
 **Web viewer** (`/`)
