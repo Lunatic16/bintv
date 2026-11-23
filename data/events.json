@@ -3,7 +3,7 @@
     "id": "ev_b6009afee153",
     "title": "India vs New Zealand",
     "category": "Cricket",
-    "startTime": "2026-11-23T02:29:18.121Z",
+    "startTime": "2026-11-23T03:49:31.446Z",
     "durationMinutes": 150,
     "sources": [
       {
@@ -115,94 +115,6 @@
     "poster": "https://tim-streams.com/img/nfl-401873077.png",
     "enabled": true,
     "feedKey": "ev_f4462a1cfcd8",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_78d385d0dd05",
-    "title": "Instituto vs Huracan",
-    "category": "Soccer",
-    "startTime": "2026-11-23T01:00:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i2z2v5sxq3.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i2z2v5sxq3.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_78d385d0dd05",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_dfb16dbc86e8",
-    "title": "New York Knicks vs Indiana Pacers",
-    "category": "Basketball",
-    "startTime": "2026-11-23T01:00:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NBA League Pass",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91aTNqajZsZS00MTM"
-      },
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE1qQTFORGcxTTE5MGMyTXViVE4xT0E"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/edq0esdrn36iekx.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/edq0esdrn36iekx.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_dfb16dbc86e8",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_154901facfd9",
-    "title": "Golden State Warriors vs Boston Celtics",
-    "category": "Basketball",
-    "startTime": "2026-11-23T01:30:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NBA League Pass",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pY3YzMHZmbS04ODg0"
-      },
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56TTNPVEV4TkY5MGMyTXViVE4xT0E"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/9gkl6s6xpzlbmkx.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/9gkl6s6xpzlbmkx.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_154901facfd9",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_eabb7765bbd8",
-    "title": "Vancouver Whitecaps vs Real Salt Lake",
-    "category": "Soccer",
-    "startTime": "2026-11-23T01:40:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU9UUTBORFU0TVY5MGMyTXViVE4xT0E"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/ndqmli9xlxrhrkv.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/ndqmli9xlxrhrkv.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_eabb7765bbd8",
     "headers": {
       "referer": "https://bintv-sources.pages.dev/"
     }

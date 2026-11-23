@@ -22,6 +22,10 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 | --- | --- |
 | ![Viewer — live events](docs/screenshots/viewer-events.png) | ![Admin panel](docs/screenshots/admin.png) |
 
+| Playlists dialog | Fullscreen (controls auto-hide) | Mobile |
+| --- | --- | --- |
+| ![Playlists dialog](docs/screenshots/playlists.png) | ![Fullscreen player](docs/screenshots/fullscreen.png) | <img src="docs/screenshots/viewer-mobile.png" width="240" alt="Mobile viewer"> |
+
 <!-- Screenshots live in docs/screenshots/ — regenerate any time the UI changes -->
 
 ---
@@ -30,11 +34,15 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 
 **Web viewer** (`/`)
 
-- Dark, responsive UI with a single accent color
-- Tabs for **24/7** channels and **Events**, live search, favorites, last-watched restore, category filter chips
-- Grouped event sections — *Live Now / Starting Soon / Later Today / Tomorrow / Upcoming* — with LIVE badges, elapsed time and in-place countdowns
-- Multi-source switcher, quality selector, picture-in-picture, fullscreen, keyboard shortcuts
+- Dark, responsive app-style layout with a single accent color: a large player on the left and a browsing sidebar on the right (the player stays pinned on top on phones and tablets)
+- **24/7** and **Events** tabs, each with a live item count (the Events badge shows how many are live now); your last tab, group filter and last-watched channel are remembered
+- **Channel browsing:** compact numbered rows, group chips with counts, a **★ Favorites** filter, live search (Enter plays the first match), and the playing channel is highlighted and scrolled into view
+- **Event browsing:** compact rows with thumbnail, category, source count and LIVE badge or in-place countdown; sticky sections — *Live Now / Starting Soon / Later Today / Tomorrow / Upcoming* — plus category chips and a **Live** toggle
+- **Player:** one clean control bar (previous/next, play/pause, stop, volume, quality, picture-in-picture, fullscreen), a favorite star next to the title, click to pause, double-click for fullscreen, multi-source switcher
+- **Fullscreen:** the controls float over the video and fade out after a few idle seconds; move the mouse, tap or press a key to bring them back
+- **Playlists dialog:** the **Playlists** button in the top bar opens the M3U URLs, QR codes, group/category filters and TiviMate setup notes
 - Resilient playback: auto-retry with backoff and a friendly error overlay, empty states, toasts
+- Quality of life: scroll position is kept across the background refreshes, the playlist filter selections survive auto-refresh, and every list row is keyboard-focusable
 
 **Admin panel** (`/admin`)
 
@@ -53,6 +61,24 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 - Optional feed importer for the BinTV Public API (or any custom JSON feed), polled in the background with stable-key upserts
 - Optional stream proxy that resolves embed wrappers, applies custom headers and rewrites HLS manifests back through the server
 - QR codes for playlist URLs (`GET /qr?text=…`) — scan straight into a phone player
+
+### Keyboard shortcuts
+
+Press **?** in the viewer to see this list.
+
+| Key | Action |
+| --- | --- |
+| `/` | Focus search (`Enter` plays the first result, `Esc` clears it) |
+| `0`–`9` | Jump to a channel by number |
+| `↑` `↓` / `PgUp` `PgDn` | Previous / next channel (or live event, on the Events tab) |
+| `Space` / `K` | Play / pause |
+| `T` | Switch between 24/7 and Events |
+| `S` | Favorite the current channel |
+| `N` | Next source (multi-source events) |
+| `F` | Fullscreen |
+| `M` | Mute |
+
+> `Tab` is no longer used for switching tabs, so normal keyboard navigation through the page works.
 
 ## Architecture
 
@@ -174,7 +200,7 @@ GET /epg.xml                                combined EPG (referenced by /playlis
 ### TiviMate
 
 1. Settings → Playlists → **Add playlist** → **M3U playlist**.
-2. Paste the playlist URL (copy it from the UI's playlist panel).
+2. Paste the playlist URL (click **Playlists** in the viewer's top bar and press **Copy**, or scan the QR code).
 3. Set the **playlist update interval to the shortest option** — the events playlist regenerates on every request, so new events appear automatically.
 4. For EPG, point TiviMate at `/epg/247.xml`, `/epg/events.xml`, or use the combined playlist whose `url-tvg` already references `/epg.xml`.
 
@@ -258,6 +284,7 @@ src/                server (strict TypeScript)
   eventSources/     isolated feed importers
   tests/            unit tests (node:test)
 public/             static UI + vendored hls.js
+docs/screenshots/   README screenshots
 data/               JSON storage (channels, events, settings)
 scripts/            build helpers (vendor copy)
 ```
@@ -271,6 +298,7 @@ Dependencies: express, hls.js, qrcode — nothing else. Requires Node ≥ 18.
 | Channels show "unavailable" in TiviMate / IPTVnator | Make sure you're on the current build — playlists now auto-proxy embed sources. Verify `http://<server>:3010/playlist/247.m3u` in a browser, then force a playlist refresh in the player. |
 | No EPG / programme times rejected | Your player likely cached the old EPG. Reload the playlist so it re-reads `url-tvg`, then refresh EPG; timestamps are spec-compliant XMLTV (`YYYYMMDDHHmmss +0000`). |
 | A specific channel returns 502 | The upstream is briefly unavailable — retry, or force a re-resolve by reloading. A few channels' upstreams go down intermittently. |
+| Player controls disappeared in fullscreen | They auto-hide after ~3 s of inactivity by design. Move the mouse, tap the screen or press any key to show them again. For embedded (iframe) streams, hover or tap the thin strip along the bottom edge. |
 | Player can't reach the server from another device | Use `http://<lan-ip>:3010/...`, not `localhost`. Playlists adapt to the incoming `Host` header automatically. |
 | Admin actions rejected | If `ADMIN_TOKEN` is set, log in via the admin panel or pass the token (`Authorization: Bearer …`, `x-admin-token`, or `?token=…`). |
 | Playlist asks for a token | If `PLAYLIST_TOKEN` is set, append `?token=…` to playlist and EPG URLs. |
