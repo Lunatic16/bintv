@@ -1,0 +1,3334 @@
+[
+  {
+    "id": "ch_5e78da1913c2",
+    "number": 1,
+    "name": "ABC",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uaG16a3plei0zMDI4",
+    "logo": "https://cdn.abcotvs.com/dip/images/11479454_011822-cc-abc-generic-thumb-img.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_5e78da1913c2",
+    "enabled": true,
+    "feedKey": "ch_5e78da1913c2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_eff8f79b4854",
+    "number": 2,
+    "name": "ACC Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hcXdpZGs5Ni0yOTg1",
+    "logo": "https://theacc.com/images/2018/11/30/ACCN_Launch.png",
+    "group": "Sports",
+    "tvgId": "ch_eff8f79b4854",
+    "enabled": true,
+    "feedKey": "ch_eff8f79b4854",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1d884e1fc47e",
+    "number": 3,
+    "name": "AE",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tcG1vMnJxNi0yMjQz",
+    "logo": "https://deadline.com/wp-content/uploads/2016/12/ae-network-logo.jpg?w=630&amp;amp;amp;h=383&amp;amp;amp;crop=1",
+    "group": "Entertainment",
+    "tvgId": "ch_1d884e1fc47e",
+    "enabled": true,
+    "feedKey": "ch_1d884e1fc47e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ee9d8cf08b85",
+    "number": 4,
+    "name": "AMC",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xNG82OHY4eC0xMDky",
+    "logo": "https://tvseriesfinale.com/wp-content/uploads/2014/08/amc02.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_ee9d8cf08b85",
+    "enabled": true,
+    "feedKey": "ch_ee9d8cf08b85",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f5fd2ab648ce",
+    "number": 5,
+    "name": "American Heroes Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95ZWJ1eWJyMi02ODY3",
+    "logo": "https://payload.cargocollective.com/1/10/342209/9724942/AHC_15a_3_1340_c.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_f5fd2ab648ce",
+    "enabled": true,
+    "feedKey": "ch_f5fd2ab648ce",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9dba57f102f3",
+    "number": 6,
+    "name": "Animal Planet",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di93bXN4Y3F0eS02NzY5",
+    "logo": "https://imagescdn.designweek.co.uk/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg?fit=max&amp;amp;amp;amp;crop=faces&amp;amp;amp;amp;q=50&amp;amp;amp;amp;auto=compress,format&amp;amp;amp;amp;cs=origin&amp;amp;amp;amp;w=2559&amp;amp;amp;amp;h=1.0",
+    "group": "Documentary",
+    "tvgId": "ch_9dba57f102f3",
+    "enabled": true,
+    "feedKey": "ch_9dba57f102f3",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_acff8786ad2f",
+    "number": 7,
+    "name": "AXS TV",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81ZXZ6ZGs0OS00OTk3",
+    "logo": "https://www.hcc.net/wp-content/uploads/2012/06/AXS_TV_BlueWhite.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_acff8786ad2f",
+    "enabled": true,
+    "feedKey": "ch_acff8786ad2f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_02fe709172ce",
+    "number": 8,
+    "name": "BBC America",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9oYTV4YnVnaS03NzY4",
+    "logo": "https://variety.com/wp-content/uploads/2014/02/bbc-america-logo1.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_02fe709172ce",
+    "enabled": true,
+    "feedKey": "ch_02fe709172ce",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_84625254149f",
+    "number": 9,
+    "name": "BBC News",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8yaGlmdGltOC03MDMw",
+    "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0g6j1tq.jpg",
+    "group": "News",
+    "tvgId": "ch_84625254149f",
+    "enabled": true,
+    "feedKey": "ch_84625254149f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b13f0c74b97c",
+    "number": 10,
+    "name": "BBC One London",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ldnFhYW80Ny04OTIz",
+    "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dkt7rv.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_b13f0c74b97c",
+    "enabled": true,
+    "feedKey": "ch_b13f0c74b97c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c6accf835714",
+    "number": 11,
+    "name": "BBC Two",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pMTk5OWppMi04NDk1",
+    "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0bvs8dg.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_c6accf835714",
+    "enabled": true,
+    "feedKey": "ch_c6accf835714",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0ab170ec9aee",
+    "number": 12,
+    "name": "beIN Sports",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85c2hqYWNpaS03MTAx",
+    "logo": "https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/1318873e-8501-4f79-bb69-182d741cf9ad/beIN%20SPORTS%20Portada.jpg?ver=03-06-2025?w=3840&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;q=75",
+    "group": "Sports",
+    "tvgId": "ch_0ab170ec9aee",
+    "enabled": true,
+    "feedKey": "ch_0ab170ec9aee",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_293a08646503",
+    "number": 13,
+    "name": "beIN Sports Francais 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nYncwOWFubi05ODM",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png",
+    "group": "Sports",
+    "tvgId": "ch_293a08646503",
+    "enabled": true,
+    "feedKey": "ch_293a08646503",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_46fe13211501",
+    "number": 14,
+    "name": "beIN Sports Francais 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9haGw3N2Nnby0zNTk3",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png",
+    "group": "Sports",
+    "tvgId": "ch_46fe13211501",
+    "enabled": true,
+    "feedKey": "ch_46fe13211501",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_bcfda56a3554",
+    "number": 15,
+    "name": "beIN Sports Francais 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mY3hwZWIyaS05Mjc1",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/beinsports.png",
+    "group": "Sports",
+    "tvgId": "ch_bcfda56a3554",
+    "enabled": true,
+    "feedKey": "ch_bcfda56a3554",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_d5945ff7600e",
+    "number": 16,
+    "name": "beIN Sports MENA 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9naDltN3U4OS04NDcx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_d5945ff7600e",
+    "enabled": true,
+    "feedKey": "ch_d5945ff7600e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8e7cafc2750e",
+    "number": 17,
+    "name": "beIN Sports MENA 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rbGswajdwMi0zMzQ3",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_8e7cafc2750e",
+    "enabled": true,
+    "feedKey": "ch_8e7cafc2750e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4da66be0b26e",
+    "number": 18,
+    "name": "beIN Sports MENA 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rZXRiY2x2MC00Nzk1",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_4da66be0b26e",
+    "enabled": true,
+    "feedKey": "ch_4da66be0b26e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4724529d1f17",
+    "number": 19,
+    "name": "beIN Sports MENA 4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9weHg0bDYxNS02NTI2",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_4724529d1f17",
+    "enabled": true,
+    "feedKey": "ch_4724529d1f17",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f66085375009",
+    "number": 20,
+    "name": "beIN Sports MENA 5",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81OWI4OWN1Yi02ODI1",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_f66085375009",
+    "enabled": true,
+    "feedKey": "ch_f66085375009",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_00cb5a0adeb9",
+    "number": 21,
+    "name": "beIN Sports MENA 6",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81dTgxaDBvbi04Mjg2",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_00cb5a0adeb9",
+    "enabled": true,
+    "feedKey": "ch_00cb5a0adeb9",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_10bc8833b231",
+    "number": 22,
+    "name": "beIN Sports MENA 7",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tbXd3MWtzcy0zNTY4",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_10bc8833b231",
+    "enabled": true,
+    "feedKey": "ch_10bc8833b231",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_94b376a12ad8",
+    "number": 23,
+    "name": "beIN Sports MENA 8",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84MHluYm51di01Mzgy",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_94b376a12ad8",
+    "enabled": true,
+    "feedKey": "ch_94b376a12ad8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_11046d7c9cb0",
+    "number": 24,
+    "name": "beIN Sports MENA 9",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sdGNxbnN6aC02MjE4",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/beIN%20SPORTS%20Portada.jpg",
+    "group": "Sports",
+    "tvgId": "ch_11046d7c9cb0",
+    "enabled": true,
+    "feedKey": "ch_11046d7c9cb0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c1608fc7cd0c",
+    "number": 25,
+    "name": "Big Ten Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90a2R0dGF2My0yNTgy",
+    "logo": "https://gopsusports.com/imgproxy/k91lOV2DCMvY-TlDrKf6wFdFPL2C-VUkzBYcnteT1zs/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyMy8wNy8xMy9yT004VFFtV0t0Y09WOHlsZ1JsZXJKSGFWN0lxNzVLRmlQY3NPUmo3LndlYnA.webp",
+    "group": "Sports",
+    "tvgId": "ch_c1608fc7cd0c",
+    "enabled": true,
+    "feedKey": "ch_c1608fc7cd0c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7d520a581441",
+    "number": 26,
+    "name": "Boomerang",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9yaXdyZjZ0dy04NDE3",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/08/05120702/Boomerang.jpg",
+    "group": "Kids",
+    "tvgId": "ch_7d520a581441",
+    "enabled": true,
+    "feedKey": "ch_7d520a581441",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ecfca505b335",
+    "number": 27,
+    "name": "Bravo",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91enFzYnlsOC00NzAw",
+    "logo": "https://www.bravotv.com/sites/bravo/files/2024/05/bravo-logo-2jpg.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_ecfca505b335",
+    "enabled": true,
+    "feedKey": "ch_ecfca505b335",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_864d58bff6ed",
+    "number": 28,
+    "name": "CANAL+ Extra 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85bmxseGtzOC00ODgz",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/canalextra.png",
+    "group": "Entertainment",
+    "tvgId": "ch_864d58bff6ed",
+    "enabled": true,
+    "feedKey": "ch_864d58bff6ed",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0aa0ac20bb8a",
+    "number": 29,
+    "name": "CANAL+ Extra 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mdWRsbG53ai0zNTE2",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/canalextra.png",
+    "group": "Entertainment",
+    "tvgId": "ch_0aa0ac20bb8a",
+    "enabled": true,
+    "feedKey": "ch_0aa0ac20bb8a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1f14249bb342",
+    "number": 30,
+    "name": "CANAL+ Sport 2 PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di92ejBiOGRhaS0zNTMz",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_1f14249bb342",
+    "enabled": true,
+    "feedKey": "ch_1f14249bb342",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a83d33449804",
+    "number": 31,
+    "name": "CANAL+ Sport 3 PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mOXEyd2hnYy03Nzg3",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_a83d33449804",
+    "enabled": true,
+    "feedKey": "ch_a83d33449804",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0d7c4b0f87a8",
+    "number": 32,
+    "name": "CANAL+ Sport 4 PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9yY2JzcDlvMS01OTEz",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_0d7c4b0f87a8",
+    "enabled": true,
+    "feedKey": "ch_0d7c4b0f87a8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4131f16927f5",
+    "number": 33,
+    "name": "CANAL+ Sport 5 PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9heWVoZHJwMS00MzA2",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_4131f16927f5",
+    "enabled": true,
+    "feedKey": "ch_4131f16927f5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0cf301fbcd19",
+    "number": 34,
+    "name": "CANAL+ Sport 6 PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xcm1rZTV4NC0yMDI4",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_0cf301fbcd19",
+    "enabled": true,
+    "feedKey": "ch_0cf301fbcd19",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_824560b2c2ed",
+    "number": 35,
+    "name": "CANAL+ Sport 360 FRANCE",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kNjZ1bTR5bi0xMjY2",
+    "logo": "https://alloforfait.fr/wp-content/uploads/2026/10/Sport-1200x675.jpg",
+    "group": "Sports",
+    "tvgId": "ch_824560b2c2ed",
+    "enabled": true,
+    "feedKey": "ch_824560b2c2ed",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_726071869506",
+    "number": 36,
+    "name": "CANAL+ Sport PL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9qcjRjeW5iby05Mjcy",
+    "logo": "https://i.postimg.cc/ZRtsQkk0/Frame-(3).png",
+    "group": "Sports",
+    "tvgId": "ch_726071869506",
+    "enabled": true,
+    "feedKey": "ch_726071869506",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4516a1fa2717",
+    "number": 37,
+    "name": "Cartoon Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iM3NmYzk0bi0yMzk5",
+    "logo": "https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",
+    "group": "Kids",
+    "tvgId": "ch_4516a1fa2717",
+    "enabled": true,
+    "feedKey": "ch_4516a1fa2717",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_fcd697a0ee7f",
+    "number": 38,
+    "name": "CBeebies",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90MzhjaHE1Ny00NzA",
+    "logo": "https://static.files.bbci.co.uk/core/website/assets/static/childrens-web/images/metadata/cbeebies-poster-1024x576.8eb27aa32e.png",
+    "group": "Kids",
+    "tvgId": "ch_fcd697a0ee7f",
+    "enabled": true,
+    "feedKey": "ch_fcd697a0ee7f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_dfea92fc52e3",
+    "number": 39,
+    "name": "CBS",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uZ211OW10aC00MjE0",
+    "logo": "https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_dfea92fc52e3",
+    "enabled": true,
+    "feedKey": "ch_dfea92fc52e3",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e75ccde59cc2",
+    "number": 40,
+    "name": "CBS Sports Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85YzJqd3I0MC0zNDA3",
+    "logo": "https://www.paramountshop.com/cdn/shop/files/cbssportsnetwork-mobile-min.png",
+    "group": "Sports",
+    "tvgId": "ch_e75ccde59cc2",
+    "enabled": true,
+    "feedKey": "ch_e75ccde59cc2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1f473d87e612",
+    "number": 41,
+    "name": "CNBC",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81NzVvOTV3aC00MzM2",
+    "logo": "https://cdn.versantmedia.com/versantmedia/styles/newsroom/s3/2025-11/cnbc%281600x900%29.png",
+    "group": "News",
+    "tvgId": "ch_1f473d87e612",
+    "enabled": true,
+    "feedKey": "ch_1f473d87e612",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_af34e14fa63b",
+    "number": 42,
+    "name": "CNN",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9qbWJ0NHRyYS0zMzQ2",
+    "logo": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+    "group": "News",
+    "tvgId": "ch_af34e14fa63b",
+    "enabled": true,
+    "feedKey": "ch_af34e14fa63b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_879de4cb8af4",
+    "number": 43,
+    "name": "Comedy Central",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hb2ViNzd4cS05NTEw",
+    "logo": "https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-comedy-central.jpg?format=webp",
+    "group": "Entertainment",
+    "tvgId": "ch_879de4cb8af4",
+    "enabled": true,
+    "feedKey": "ch_879de4cb8af4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e7d3d158f8c2",
+    "number": 44,
+    "name": "CW",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84eDAxNTEwMi02NDUy",
+    "logo": "https://www.wavy.com/wp-content/uploads/sites/3/2024/08/cw-logo-white-on-blue-wavy-background.jpg?w=1280",
+    "group": "Entertainment",
+    "tvgId": "ch_e7d3d158f8c2",
+    "enabled": true,
+    "feedKey": "ch_e7d3d158f8c2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_5941ac89a238",
+    "number": 45,
+    "name": "DAZN 1 Germany",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zZGs4cnh1aS02MjEy",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_5941ac89a238",
+    "enabled": true,
+    "feedKey": "ch_5941ac89a238",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_33f4684d2eb8",
+    "number": 46,
+    "name": "DAZN 1 Italia",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nbW9xb3o3Yi00OTQ1",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=pterrit4f2xu1pa2r6x87y5e9_image-header_pIt_1724315365000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_33f4684d2eb8",
+    "enabled": true,
+    "feedKey": "ch_33f4684d2eb8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e652a93a0694",
+    "number": 47,
+    "name": "DAZN 1 Portugal",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zemhjenpibC05MDg2",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_e652a93a0694",
+    "enabled": true,
+    "feedKey": "ch_e652a93a0694",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_aaa7c0f78ebc",
+    "number": 48,
+    "name": "DAZN 1 Spain",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zcTI2aW55Zi0yNjYw",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=hn9vkic8rbfi1ndrym8sw2qh7_image-header_pEs_1723035920000",
+    "group": "Sports",
+    "tvgId": "ch_aaa7c0f78ebc",
+    "enabled": true,
+    "feedKey": "ch_aaa7c0f78ebc",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ba155522853e",
+    "number": 49,
+    "name": "DAZN 1 USA",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9qeXF6ZXQwYi0yOTAx",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1owzb99m9mnzy15hjxolpukwul_image-header_pUs_1771501796000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_ba155522853e",
+    "enabled": true,
+    "feedKey": "ch_ba155522853e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b4a73413a675",
+    "number": 50,
+    "name": "DAZN 2 Germany",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90bmlmc3BqNi04NTI",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1723628653000",
+    "group": "Sports",
+    "tvgId": "ch_b4a73413a675",
+    "enabled": true,
+    "feedKey": "ch_b4a73413a675",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6eb6f764f13b",
+    "number": 51,
+    "name": "DAZN 2 Spain",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8wbzN2bGFiay00MDg4",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=2ouwtae8ad7l1fxviow9bowpk_image-header_pEs_1723118632000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_6eb6f764f13b",
+    "enabled": true,
+    "feedKey": "ch_6eb6f764f13b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a57b8790fc07",
+    "number": 52,
+    "name": "DAZN F1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81cnZhenN6ei02OTgz",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1723117975000&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Sports",
+    "tvgId": "ch_a57b8790fc07",
+    "enabled": true,
+    "feedKey": "ch_a57b8790fc07",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_968835b6053b",
+    "number": 53,
+    "name": "DAZN LaLiga",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mdzJqcnVtOS00NDg",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1weziux6zy5mb16pev002ax1yu_image-header_pEs_1723118324000",
+    "group": "Sports",
+    "tvgId": "ch_968835b6053b",
+    "enabled": true,
+    "feedKey": "ch_968835b6053b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b47db092e46b",
+    "number": 54,
+    "name": "Dirtvision Now 24/7",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8ydWh6OHBxNy0yMzIy",
+    "logo": "https://dirtvision.asset.viewlift.com/images/2025/10/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838-1760724870716.webp",
+    "group": "Entertainment",
+    "tvgId": "ch_b47db092e46b",
+    "enabled": true,
+    "feedKey": "ch_b47db092e46b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f8e9786600db",
+    "number": 55,
+    "name": "Discovery Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81aGliaWhyeC00NTk",
+    "logo": "https://i.ibb.co/k2rbB1jc/e35d6be84084fed1d756c39242f13163.webp",
+    "group": "Documentary",
+    "tvgId": "ch_f8e9786600db",
+    "enabled": true,
+    "feedKey": "ch_f8e9786600db",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_5d21c0f7513b",
+    "number": 56,
+    "name": "Discovery Family",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tY29wOGNicC00",
+    "logo": "https://i.ibb.co/wFmT9Q5t/Discovery-Family-ID-Let-s-Go-Yellow.webp",
+    "group": "Kids",
+    "tvgId": "ch_5d21c0f7513b",
+    "enabled": true,
+    "feedKey": "ch_5d21c0f7513b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c436bd830c39",
+    "number": 57,
+    "name": "Discovery Turbo",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9oZ2Y0cWc3OC02NDk",
+    "logo": "https://i.ibb.co/20MgSXjy/featured-Image-1767979538707.jpg",
+    "group": "Documentary",
+    "tvgId": "ch_c436bd830c39",
+    "enabled": true,
+    "feedKey": "ch_c436bd830c39",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0919b3c85229",
+    "number": 58,
+    "name": "Disney Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9lcHV6ZTVlOS0xNzc3",
+    "logo": "https://vignette4.wikia.nocookie.net/logopedia/images/9/93/Disney_Channel_Original_2014.png/revision/latest?cb=20140705213010",
+    "group": "Kids",
+    "tvgId": "ch_0919b3c85229",
+    "enabled": true,
+    "feedKey": "ch_0919b3c85229",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_23997e516793",
+    "number": 59,
+    "name": "Disney Junior",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9teGg5eGh5ay02MzQ5",
+    "logo": "https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg",
+    "group": "Kids",
+    "tvgId": "ch_23997e516793",
+    "enabled": true,
+    "feedKey": "ch_23997e516793",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c8219031fd79",
+    "number": 60,
+    "name": "Disney XD",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di82Y3p6ODBrcC0yMzI2",
+    "logo": "https://www.laughingplace.com/uploads/2015/10/d128457e3b3ab8c050f306aa8e23666b9b05d3cc.jpg",
+    "group": "Kids",
+    "tvgId": "ch_c8219031fd79",
+    "enabled": true,
+    "feedKey": "ch_c8219031fd79",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_61c234e26036",
+    "number": 61,
+    "name": "Eleven Sports 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nZzI4d3doNC02ODQ5",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png",
+    "group": "Sports",
+    "tvgId": "ch_61c234e26036",
+    "enabled": true,
+    "feedKey": "ch_61c234e26036",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_41537ecbdec5",
+    "number": 62,
+    "name": "Eleven Sports 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wdzB5MGd6eC03NjE0",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png",
+    "group": "Sports",
+    "tvgId": "ch_41537ecbdec5",
+    "enabled": true,
+    "feedKey": "ch_41537ecbdec5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c5550fcd285b",
+    "number": 63,
+    "name": "Eleven Sports 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95dGpydGRlNC02MDg3",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png",
+    "group": "Sports",
+    "tvgId": "ch_c5550fcd285b",
+    "enabled": true,
+    "feedKey": "ch_c5550fcd285b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_32dc9660c41e",
+    "number": 64,
+    "name": "Eleven Sports 4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ib2M3Y3Y0eS02MTYx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/100659.png",
+    "group": "Sports",
+    "tvgId": "ch_32dc9660c41e",
+    "enabled": true,
+    "feedKey": "ch_32dc9660c41e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e1949dc8115d",
+    "number": 65,
+    "name": "ESPN",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vOWJsOGNhaS03MjIz",
+    "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+    "group": "Sports",
+    "tvgId": "ch_e1949dc8115d",
+    "enabled": true,
+    "feedKey": "ch_e1949dc8115d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9ae0c63c7533",
+    "number": 66,
+    "name": "ESPN Deportes",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di82dHJzYW50Ny0xNDIx",
+    "logo": "https://i.ibb.co/Y7zHmbbz/i.png",
+    "group": "Sports",
+    "tvgId": "ch_9ae0c63c7533",
+    "enabled": true,
+    "feedKey": "ch_9ae0c63c7533",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_555ad51b43a4",
+    "number": 67,
+    "name": "ESPN2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zM2pocHpmci05MzY",
+    "logo": "https://discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png",
+    "group": "Entertainment",
+    "tvgId": "ch_555ad51b43a4",
+    "enabled": true,
+    "feedKey": "ch_555ad51b43a4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_28f05ff9e94a",
+    "number": 68,
+    "name": "ESPNEWS",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tZnRzbGV6NC0zMzY0",
+    "logo": "https://i.ibb.co/5h4LGFHq/image.png",
+    "group": "Entertainment",
+    "tvgId": "ch_28f05ff9e94a",
+    "enabled": true,
+    "feedKey": "ch_28f05ff9e94a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9d146dfb0c45",
+    "number": 69,
+    "name": "ESPNU",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91Mnp0NWM1aC0xMjE0",
+    "logo": "https://i.ibb.co/Lh5jHVDm/ESPNU-logo-1-jpg.webp",
+    "group": "Entertainment",
+    "tvgId": "ch_9d146dfb0c45",
+    "enabled": true,
+    "feedKey": "ch_9d146dfb0c45",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ed0778805577",
+    "number": 70,
+    "name": "Food Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jbm9teG5vMC0xOTg3",
+    "logo": "https://i.ibb.co/5WcnZbYf/food-network-jpg.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_ed0778805577",
+    "enabled": true,
+    "feedKey": "ch_ed0778805577",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c5e43915c7e0",
+    "number": 71,
+    "name": "Fox",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iaGc3cmt1Zy02OTI0",
+    "logo": "https://i.ibb.co/8JdwqP4/foxusa.png",
+    "group": "Entertainment",
+    "tvgId": "ch_c5e43915c7e0",
+    "enabled": true,
+    "feedKey": "ch_c5e43915c7e0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_423129d24589",
+    "number": 72,
+    "name": "Fox Deportes",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84cDB3anI2dC0zMzE3",
+    "logo": "https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585.jpg",
+    "group": "Sports",
+    "tvgId": "ch_423129d24589",
+    "enabled": true,
+    "feedKey": "ch_423129d24589",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_76ce28b10f99",
+    "number": 73,
+    "name": "Fox News",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tdHl6NzM2di0xMTk5",
+    "logo": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15de0523-3be4-4a9a-8159-7020114e7036/b6ff623a-26d6-4fd9-8bb8-0856adbf38ce/1280x720/match/896/500/image.jpg",
+    "group": "News",
+    "tvgId": "ch_76ce28b10f99",
+    "enabled": true,
+    "feedKey": "ch_76ce28b10f99",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1553beb4b96d",
+    "number": 74,
+    "name": "Fox Sports 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mNGlqcjRzbC0xODc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png",
+    "group": "Sports",
+    "tvgId": "ch_1553beb4b96d",
+    "enabled": true,
+    "feedKey": "ch_1553beb4b96d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f5a3d5a4234c",
+    "number": 75,
+    "name": "Fox Sports 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wNTU2MmJ3bS0zMjg1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png",
+    "group": "Sports",
+    "tvgId": "ch_f5a3d5a4234c",
+    "enabled": true,
+    "feedKey": "ch_f5a3d5a4234c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_def2e89fc5b2",
+    "number": 76,
+    "name": "Fox Sports 501 (Cricket)",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pbWlmbmVvai0xNDE3",
+    "logo": "https://i.ibb.co/Y4bTS1p7/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_def2e89fc5b2",
+    "enabled": true,
+    "feedKey": "ch_def2e89fc5b2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_28f2e7bea222",
+    "number": 77,
+    "name": "Fox Sports 502 (League)",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jYXhxOWQ1Zy0xODU0",
+    "logo": "https://i.postimg.cc/5NBbWrWm/Minimalist-bintv-Wordmark.png",
+    "group": "Sports",
+    "tvgId": "ch_28f2e7bea222",
+    "enabled": true,
+    "feedKey": "ch_28f2e7bea222",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6776cda0922c",
+    "number": 78,
+    "name": "Fox Sports 503",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90MWlsbnM1aS03NDY",
+    "logo": "https://i.ibb.co/xS4MkGSL/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_6776cda0922c",
+    "enabled": true,
+    "feedKey": "ch_6776cda0922c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7593f1845750",
+    "number": 79,
+    "name": "Fox Sports 504 (Footy)",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tNXlzMnQyei03NDEw",
+    "logo": "https://i.ibb.co/SXvQLc0M/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_7593f1845750",
+    "enabled": true,
+    "feedKey": "ch_7593f1845750",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2ea7542f9195",
+    "number": 80,
+    "name": "Fox Sports 505",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wMGprcG0xMi0xMTQw",
+    "logo": "https://i.ibb.co/prKZGNLt/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_2ea7542f9195",
+    "enabled": true,
+    "feedKey": "ch_2ea7542f9195",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6958d745c57b",
+    "number": 81,
+    "name": "Fox Sports 506",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85aGc5cnp6aC0yOTM3",
+    "logo": "https://i.ibb.co/Swks4Lmj/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_6958d745c57b",
+    "enabled": true,
+    "feedKey": "ch_6958d745c57b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e1c3fe5fe1f7",
+    "number": 82,
+    "name": "Fox Sports 507",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zMW5wcW1vZC05MzM1",
+    "logo": "https://i.ibb.co/7d6VgDVL/image.webp",
+    "group": "Sports",
+    "tvgId": "ch_e1c3fe5fe1f7",
+    "enabled": true,
+    "feedKey": "ch_e1c3fe5fe1f7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_375da1ec34a6",
+    "number": 83,
+    "name": "Freeform",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jZXg1Y3R2di03NzQz",
+    "logo": "https://d2z00kf51ll94q.cloudfront.net//archive/2023/large/ADC102_BCD021B_0.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_375da1ec34a6",
+    "enabled": true,
+    "feedKey": "ch_375da1ec34a6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0c43ebb1ca96",
+    "number": 84,
+    "name": "FX",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mbjNwYTFnYi05Mw",
+    "logo": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/gold-fx-channel-logo-1.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_0c43ebb1ca96",
+    "enabled": true,
+    "feedKey": "ch_0c43ebb1ca96",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_cbad233d59e5",
+    "number": 85,
+    "name": "FXM",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hZjVudDkwMi02NzQ0",
+    "logo": "https://www.awn.com/sites/default/files/styles/original/public/image/featured/50716-buster-creates-brand-id-new-fxm-programming-block_0.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_cbad233d59e5",
+    "enabled": true,
+    "feedKey": "ch_cbad233d59e5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c4b7f114da6d",
+    "number": 86,
+    "name": "FXX",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84bHlzZ2Q4My00ODYz",
+    "logo": "https://thestreamable.com/media/pages/channels/fxx/b6fc72ce3d-1756344305/fxx-banner-1536x864-crop.png",
+    "group": "Entertainment",
+    "tvgId": "ch_c4b7f114da6d",
+    "enabled": true,
+    "feedKey": "ch_c4b7f114da6d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c015b902964f",
+    "number": 87,
+    "name": "Go3 Sport 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8ydHNsMmNibi02OTY5",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png",
+    "group": "Sports",
+    "tvgId": "ch_c015b902964f",
+    "enabled": true,
+    "feedKey": "ch_c015b902964f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_76f948d2f821",
+    "number": 88,
+    "name": "Go3 Sport 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ndTB6YXdwMC04MTcy",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png",
+    "group": "Sports",
+    "tvgId": "ch_76f948d2f821",
+    "enabled": true,
+    "feedKey": "ch_76f948d2f821",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9944298a1738",
+    "number": 89,
+    "name": "Go3 Sport 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ndTB6YXdwMC01NDU2",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/go3sport.png",
+    "group": "Sports",
+    "tvgId": "ch_9944298a1738",
+    "enabled": true,
+    "feedKey": "ch_9944298a1738",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_bf3d1d949018",
+    "number": 90,
+    "name": "GOLF Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wOHdvczVxMS0xMzMz",
+    "logo": "https://corporate.comcast.com/media/img/1000w/2020/01/corporate_golf-channel-16x9-social.jpg",
+    "group": "Sports",
+    "tvgId": "ch_bf3d1d949018",
+    "enabled": true,
+    "feedKey": "ch_bf3d1d949018",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_720feac329b2",
+    "number": 91,
+    "name": "HBO",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vdDAzanFwYi00MTI2",
+    "logo": "https://static.hbo.com/2021-11/hbo-static-1920.jpg",
+    "group": "Movies",
+    "tvgId": "ch_720feac329b2",
+    "enabled": true,
+    "feedKey": "ch_720feac329b2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2929ac781810",
+    "number": 92,
+    "name": "HBO Comedy",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nOHJsdHZhMi0xMTU1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyenDc7wucCDm_3vYBURzz0cfYKw5tVWpm4rtCOfILlOua2dcpiTwG5JZ&amp;amp;amp;amp;s=10",
+    "group": "Movies",
+    "tvgId": "ch_2929ac781810",
+    "enabled": true,
+    "feedKey": "ch_2929ac781810",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_38ed6eda3b17",
+    "number": 93,
+    "name": "HBO Drama",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zMG93cXJjay03ODQw",
+    "logo": "https://i.ibb.co/Qv2Mz3ZB/https-archive-images-prod-global-a201836-reutersmedia-net-2016-10-30-LYNXMPEC9-T08-O.avif",
+    "group": "Movies",
+    "tvgId": "ch_38ed6eda3b17",
+    "enabled": true,
+    "feedKey": "ch_38ed6eda3b17",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_bebd1209b8bd",
+    "number": 94,
+    "name": "HBO Latino",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95bTZ5NHp5YS05OTEw",
+    "logo": "https://i.ibb.co/TMzmbVYq/maxresdefault.jpg",
+    "group": "Movies",
+    "tvgId": "ch_bebd1209b8bd",
+    "enabled": true,
+    "feedKey": "ch_bebd1209b8bd",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_96a65bc19c14",
+    "number": 95,
+    "name": "HBO Movies",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91aW9uaHlzMi00NjE",
+    "logo": "https://i.ibb.co/Qv2Mz3ZB/https-archive-images-prod-global-a201836-reutersmedia-net-2016-10-30-LYNXMPEC9-T08-O.avif",
+    "group": "Movies",
+    "tvgId": "ch_96a65bc19c14",
+    "enabled": true,
+    "feedKey": "ch_96a65bc19c14",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_71df8c8a26e4",
+    "number": 96,
+    "name": "HGTV",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9va2ozdzZlNy03Mjk0",
+    "logo": "https://i.ibb.co/gbtDnLhS/hgtv-jpg.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_71df8c8a26e4",
+    "enabled": true,
+    "feedKey": "ch_71df8c8a26e4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6d44b163ec91",
+    "number": 97,
+    "name": "Hub Sports 1 Singapore",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8yNjcwcm5scC0yNjkz",
+    "logo": "https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp",
+    "group": "Sports",
+    "tvgId": "ch_6d44b163ec91",
+    "enabled": true,
+    "feedKey": "ch_6d44b163ec91",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7d0e003a2919",
+    "number": 98,
+    "name": "Hub Sports 2 Singapore",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91eGpqdTI4ai0yOTc3",
+    "logo": "https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp",
+    "group": "Sports",
+    "tvgId": "ch_7d0e003a2919",
+    "enabled": true,
+    "feedKey": "ch_7d0e003a2919",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_fa1cd79082f6",
+    "number": 99,
+    "name": "Hub Sports 3 Singapore",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85MWllY2Nwdy0zNDg5",
+    "logo": "https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp",
+    "group": "Sports",
+    "tvgId": "ch_fa1cd79082f6",
+    "enabled": true,
+    "feedKey": "ch_fa1cd79082f6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1aefa4a1ab0b",
+    "number": 100,
+    "name": "Hub Sports 4 Singapore",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wZ2Ixa2RtZi04Mjk2",
+    "logo": "https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp",
+    "group": "Sports",
+    "tvgId": "ch_1aefa4a1ab0b",
+    "enabled": true,
+    "feedKey": "ch_1aefa4a1ab0b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_813b04cc95be",
+    "number": 101,
+    "name": "Hub Sports 5 Singapore",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90ZnJyeDcxNS04MTI0",
+    "logo": "https://i.vimeocdn.com/video/2065871386-1e9bff68a218b46f95c503bc69cf9d566c5021dae6479880b15ba09efa83da70-d?f=webp",
+    "group": "Sports",
+    "tvgId": "ch_813b04cc95be",
+    "enabled": true,
+    "feedKey": "ch_813b04cc95be",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_26a5a657289c",
+    "number": 102,
+    "name": "L'Équipe FR",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pdmd1cXBpNS0xMTMx",
+    "logo": "https://iili.io/o9SliIp.png",
+    "group": "Entertainment",
+    "tvgId": "ch_26a5a657289c",
+    "enabled": true,
+    "feedKey": "ch_26a5a657289c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2969de500e3b",
+    "number": 103,
+    "name": "MAX Sport 1 HR",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81dTIzeWttOS03NDQz",
+    "logo": "https://iili.io/o9UJmyQ.png",
+    "group": "Sports",
+    "tvgId": "ch_2969de500e3b",
+    "enabled": true,
+    "feedKey": "ch_2969de500e3b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c2ccc9da156c",
+    "number": 104,
+    "name": "MAX Sport 2 HR",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xZHVicG9tYi05NjY1",
+    "logo": "https://iili.io/o9UAGpI.png",
+    "group": "Sports",
+    "tvgId": "ch_c2ccc9da156c",
+    "enabled": true,
+    "feedKey": "ch_c2ccc9da156c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_203362299ea2",
+    "number": 105,
+    "name": "MLB Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rYnJxcDBkNS0xNjg5",
+    "logo": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/xtkynqe5wgtzaddnsus2.jpg",
+    "group": "Sports",
+    "tvgId": "ch_203362299ea2",
+    "enabled": true,
+    "feedKey": "ch_203362299ea2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8f08012c6fa8",
+    "number": 106,
+    "name": "MotoGP Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zdjdhNHNmYy05MjEw",
+    "logo": "https://sportbikesincmag.com/wp-content/uploads/2024/11/New-MotoGP-Logo-sportbikesincmag.com-4.jpg",
+    "group": "Sports",
+    "tvgId": "ch_8f08012c6fa8",
+    "enabled": true,
+    "feedKey": "ch_8f08012c6fa8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ff58ae3314bb",
+    "number": 107,
+    "name": "Movistar Deportes",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nemxpM2p0YS01NzA",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png",
+    "group": "Sports",
+    "tvgId": "ch_ff58ae3314bb",
+    "enabled": true,
+    "feedKey": "ch_ff58ae3314bb",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_cbfb6a9471a5",
+    "number": 108,
+    "name": "Movistar Deportes 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8xZ3Yycmh4Yy00Mjky",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png",
+    "group": "Sports",
+    "tvgId": "ch_cbfb6a9471a5",
+    "enabled": true,
+    "feedKey": "ch_cbfb6a9471a5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_057bd73ea19a",
+    "number": 109,
+    "name": "Movistar Deportes 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di93dG5uZ3ozcC00ODY3",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistardeportes.png",
+    "group": "Sports",
+    "tvgId": "ch_057bd73ea19a",
+    "enabled": true,
+    "feedKey": "ch_057bd73ea19a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_148f90dc1db7",
+    "number": 110,
+    "name": "Movistar LaLiga",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di92b3dyd2hkbi0yNDkx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/movistarlaliga.png",
+    "group": "Entertainment",
+    "tvgId": "ch_148f90dc1db7",
+    "enabled": true,
+    "feedKey": "ch_148f90dc1db7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_fcee6a9d0399",
+    "number": 111,
+    "name": "Movistar Plus",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iNmEzY2pieC05MDIy",
+    "logo": "https://imagenes.hobbyconsolas.com/uploads/imagenes/2026/05/11/6a01f2422d3b19-96205427.jpeg",
+    "group": "Entertainment",
+    "tvgId": "ch_fcee6a9d0399",
+    "enabled": true,
+    "feedKey": "ch_fcee6a9d0399",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_85b0fb87bbc5",
+    "number": 112,
+    "name": "MTV",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tN2R4YnQ2cy02Mzgx",
+    "logo": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/mtv-logo-1.jpg",
+    "group": "Music",
+    "tvgId": "ch_85b0fb87bbc5",
+    "enabled": true,
+    "feedKey": "ch_85b0fb87bbc5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_57a31433058b",
+    "number": 113,
+    "name": "NBA TV",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84dGwya3NlZi0yNzc1",
+    "logo": "https://static.cdn.turner.com/styles/header_image_1500x500_cropped/s3/nba-tv-16x9-1.jpg?itok=6H8mrlyR",
+    "group": "Sports",
+    "tvgId": "ch_57a31433058b",
+    "enabled": true,
+    "feedKey": "ch_57a31433058b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_cec92a80b75f",
+    "number": 114,
+    "name": "NBC",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iZGw3bXkzNC0xODYy",
+    "logo": "https://cdn.mos.cms.futurecdn.net/zP42nmS7MRj2kvBqNEs8CE.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_cec92a80b75f",
+    "enabled": true,
+    "feedKey": "ch_cec92a80b75f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8182033eb8ab",
+    "number": 115,
+    "name": "NBC Sports Bay Area",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zb2lwZjgwZC04NDQx",
+    "logo": "https://cdn.mos.cms.futurecdn.net/d7jWexxhtezRZ6ryLHyKmd.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_8182033eb8ab",
+    "enabled": true,
+    "feedKey": "ch_8182033eb8ab",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_98865473ff23",
+    "number": 116,
+    "name": "NBC Sports Boston",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ydzRuaTV2by01MzQ4",
+    "logo": "https://media.nbcsportsboston.com/2023/04/Boston-Landmark.png",
+    "group": "Sports",
+    "tvgId": "ch_98865473ff23",
+    "enabled": true,
+    "feedKey": "ch_98865473ff23",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ea320a260c71",
+    "number": 117,
+    "name": "NBC Sports Philadelphia",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8wM3V4bWcycC04Njc0",
+    "logo": "https://media.nbcsportsphiladelphia.com/2023/04/Philly-Landmark.png?resize=1200%2C675&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=85&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;strip=all",
+    "group": "Sports",
+    "tvgId": "ch_ea320a260c71",
+    "enabled": true,
+    "feedKey": "ch_ea320a260c71",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ed68f4fb0431",
+    "number": 118,
+    "name": "NFL Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hNDBjeng4ZS00MDIy",
+    "logo": "https://i.ibb.co/ZRsTndvV/tfki7njrm3y8jycbtkrx.jpg",
+    "group": "Sports",
+    "tvgId": "ch_ed68f4fb0431",
+    "enabled": true,
+    "feedKey": "ch_ed68f4fb0431",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9dd8b30ecfc8",
+    "number": 119,
+    "name": "NHL Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rZWxjd3FsMi0xOTM4",
+    "logo": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png",
+    "group": "Sports",
+    "tvgId": "ch_9dd8b30ecfc8",
+    "enabled": true,
+    "feedKey": "ch_9dd8b30ecfc8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_faec59689c23",
+    "number": 120,
+    "name": "Nick Jr.",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ta3E0cTJhNC05MzIx",
+    "logo": "https://i.ibb.co/xS6CMxZD/nick-jr-logo-2023-4.jpg",
+    "group": "Kids",
+    "tvgId": "ch_faec59689c23",
+    "enabled": true,
+    "feedKey": "ch_faec59689c23",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f2ce886d878d",
+    "number": 121,
+    "name": "Nickelodeon",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84MWdpeW83by01NDk1",
+    "logo": "https://i.ibb.co/xSM8bDYh/roger-nickelodeon-graphic-design-format-webp-width-2880-8-Yj-L2u3-KSI20j-HDQ.webp",
+    "group": "Kids",
+    "tvgId": "ch_f2ce886d878d",
+    "enabled": true,
+    "feedKey": "ch_f2ce886d878d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9f510ddea720",
+    "number": 122,
+    "name": "Nicktoons",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95cnF2YjAwNy0xMTI0",
+    "logo": "https://i.ibb.co/XfX32tyx/nicktoons-logo-2023-rebrand-2.png",
+    "group": "Kids",
+    "tvgId": "ch_9f510ddea720",
+    "enabled": true,
+    "feedKey": "ch_9f510ddea720",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1f683d848970",
+    "number": 123,
+    "name": "Nova TV HR",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nM2J6NjBkOC0zMzQ3",
+    "logo": "https://iili.io/o98GRsI.png",
+    "group": "Entertainment",
+    "tvgId": "ch_1f683d848970",
+    "enabled": true,
+    "feedKey": "ch_1f683d848970",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_10cc94917a52",
+    "number": 124,
+    "name": "Polsat",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kbnIxYjZrNS0zOTYx",
+    "logo": "https://i.ibb.co/1YTCVJ7W/image.png",
+    "group": "Entertainment",
+    "tvgId": "ch_10cc94917a52",
+    "enabled": true,
+    "feedKey": "ch_10cc94917a52",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0d8a615c7cb0",
+    "number": 125,
+    "name": "Polsat Sport 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9waTVkcXNqZC04OTY0",
+    "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_banner/COEd/3809-polsat-sport-1-hd.png",
+    "group": "Sports",
+    "tvgId": "ch_0d8a615c7cb0",
+    "enabled": true,
+    "feedKey": "ch_0d8a615c7cb0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_dad77643dce5",
+    "number": 126,
+    "name": "Polsat Sport 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uanM1cGM2ay01MzQ3",
+    "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_banner/COId/3810-polsat-sport-2-hd.png",
+    "group": "Sports",
+    "tvgId": "ch_dad77643dce5",
+    "enabled": true,
+    "feedKey": "ch_dad77643dce5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ef53a871c33e",
+    "number": 127,
+    "name": "Polsat Sport 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9yMWVod2dkZS05MTM5",
+    "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_banner/COMd/3811-polsat-sport-3-hd.png",
+    "group": "Sports",
+    "tvgId": "ch_ef53a871c33e",
+    "enabled": true,
+    "feedKey": "ch_ef53a871c33e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_d52f3134d200",
+    "number": 128,
+    "name": "Polsat Sport Fight",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ta3I2bnZxdC00NjYy",
+    "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_banner/COUd/3813-polsat-sport-fight-hd.png",
+    "group": "Sports",
+    "tvgId": "ch_d52f3134d200",
+    "enabled": true,
+    "feedKey": "ch_d52f3134d200",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_444ee7ca0e12",
+    "number": 129,
+    "name": "Premier Sports 1 IE",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uZjFza2gybC0xOTI2",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/premiersports.png",
+    "group": "Sports",
+    "tvgId": "ch_444ee7ca0e12",
+    "enabled": true,
+    "feedKey": "ch_444ee7ca0e12",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_253936fe381d",
+    "number": 130,
+    "name": "Premier Sports 2 IE",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jOHByZjl5aC0yNDk4",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/premiersports.png",
+    "group": "Sports",
+    "tvgId": "ch_253936fe381d",
+    "enabled": true,
+    "feedKey": "ch_253936fe381d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f33275420592",
+    "number": 131,
+    "name": "Premiere",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9oeDhua241aC0yNjQ1",
+    "logo": "https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png",
+    "group": "Entertainment",
+    "tvgId": "ch_f33275420592",
+    "enabled": true,
+    "feedKey": "ch_f33275420592",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a3b15e0975fa",
+    "number": 132,
+    "name": "RACER Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jMDhpOTRqNy04OTk5",
+    "logo": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/bltb30b537c79808b35/680f2c517c8c98109d720e49/Racer_Network_1920x1080_Presser_V1.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_a3b15e0975fa",
+    "enabled": true,
+    "feedKey": "ch_a3b15e0975fa",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c2cabe0467f3",
+    "number": 133,
+    "name": "SEC Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8ycDlwdHNoYi0zNTM3",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/2NRKBDE2CLIGI5XHHHHMY2BCAQ.jpg",
+    "group": "Sports",
+    "tvgId": "ch_c2cabe0467f3",
+    "enabled": true,
+    "feedKey": "ch_c2cabe0467f3",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1c19bb3b4a00",
+    "number": 134,
+    "name": "Showtime",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sYmY4YjlxeC01Nzk1",
+    "logo": "https://i.ibb.co/v7vcNY4/Showtime-Logo.webp",
+    "group": "Movies",
+    "tvgId": "ch_1c19bb3b4a00",
+    "enabled": true,
+    "feedKey": "ch_1c19bb3b4a00",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_09ee001d3ca5",
+    "number": 135,
+    "name": "Showtime 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kdXRtNmFxZi0xNjMx",
+    "logo": "https://i.ibb.co/8gCRbv0s/Showtime-2-svg.webp",
+    "group": "Movies",
+    "tvgId": "ch_09ee001d3ca5",
+    "enabled": true,
+    "feedKey": "ch_09ee001d3ca5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6adc52fef211",
+    "number": 136,
+    "name": "Showtime Extreme",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di81Y2FwenJhMC00MDI1",
+    "logo": "https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp",
+    "group": "Movies",
+    "tvgId": "ch_6adc52fef211",
+    "enabled": true,
+    "feedKey": "ch_6adc52fef211",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_d8818d8ead9f",
+    "number": 137,
+    "name": "Showtime Family Zone",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90cXBrNzh4aS0zMTcy",
+    "logo": "https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp",
+    "group": "Kids",
+    "tvgId": "ch_d8818d8ead9f",
+    "enabled": true,
+    "feedKey": "ch_d8818d8ead9f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_1a50f52f082f",
+    "number": 138,
+    "name": "Showtime Next",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8xbjkwdmc2eS0yMjQ",
+    "logo": "https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp",
+    "group": "Movies",
+    "tvgId": "ch_1a50f52f082f",
+    "enabled": true,
+    "feedKey": "ch_1a50f52f082f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8cfbbf989807",
+    "number": 139,
+    "name": "Showtime Women",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9nNG5naHYyci0yNTE2",
+    "logo": "https://i.ibb.co/1t5fNwpQ/Showtime-Closing-2013.webp",
+    "group": "Movies",
+    "tvgId": "ch_8cfbbf989807",
+    "enabled": true,
+    "feedKey": "ch_8cfbbf989807",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_264af8cb4a33",
+    "number": 140,
+    "name": "Sky Arts",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ianB1eHkwdi02MzY",
+    "logo": "https://www.advanced-television.com/wp-content/uploads/2020/07/SkyArts-e1596120009794.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_264af8cb4a33",
+    "enabled": true,
+    "feedKey": "ch_264af8cb4a33",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_99789a51ff21",
+    "number": 141,
+    "name": "Sky Atlantic",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sa3o4a2ttdS0yODIx",
+    "logo": "https://news.virginmediao2.co.uk/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-08.44.25.png",
+    "group": "Entertainment",
+    "tvgId": "ch_99789a51ff21",
+    "enabled": true,
+    "feedKey": "ch_99789a51ff21",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7377ac1a7de5",
+    "number": 142,
+    "name": "Sky Comedy",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95ZWVsdmZybi0zNTM",
+    "logo": "https://i.imgur.com/wKLxOY3.jpeg",
+    "group": "Entertainment",
+    "tvgId": "ch_7377ac1a7de5",
+    "enabled": true,
+    "feedKey": "ch_7377ac1a7de5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_78fc1058659c",
+    "number": 143,
+    "name": "Sky Crime",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sajdzYTZ5Zi0yNDU3",
+    "logo": "https://i.imgur.com/A6zkJB3.jpeg",
+    "group": "Entertainment",
+    "tvgId": "ch_78fc1058659c",
+    "enabled": true,
+    "feedKey": "ch_78fc1058659c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_39171e21994d",
+    "number": 144,
+    "name": "Sky Documentaries",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85ejRjcXE4aS04MTc5",
+    "logo": "https://i.imgur.com/zlR5nbe.jpeg",
+    "group": "Entertainment",
+    "tvgId": "ch_39171e21994d",
+    "enabled": true,
+    "feedKey": "ch_39171e21994d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f8b280781333",
+    "number": 145,
+    "name": "Sky Kids",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84ZHV4Yzh3ei0xOTE",
+    "logo": "https://i.imgur.com/EPPYzm6.png",
+    "group": "Kids",
+    "tvgId": "ch_f8b280781333",
+    "enabled": true,
+    "feedKey": "ch_f8b280781333",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ba2d6a85186e",
+    "number": 146,
+    "name": "Sky Nature",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hZGZtZjgxaC02MTYw",
+    "logo": "https://static.wikia.nocookie.net/logosfake/images/a/ad/Sky_Nature_Generic_ID_2020.png",
+    "group": "Entertainment",
+    "tvgId": "ch_ba2d6a85186e",
+    "enabled": true,
+    "feedKey": "ch_ba2d6a85186e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_62a1292e22ea",
+    "number": 147,
+    "name": "Sky News",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di95czk5dDZ1cS00NzM1",
+    "logo": "https://videos.skynews.com/image/v1/static/6058004172001/8eed3dc3-7e5b-434c-8a86-db429eda4fc5/d8918560-71dd-450b-810c-ae8137f2f6ad/1280x720/match/image.jpg",
+    "group": "News",
+    "tvgId": "ch_62a1292e22ea",
+    "enabled": true,
+    "feedKey": "ch_62a1292e22ea",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2cc7045ab4bd",
+    "number": 148,
+    "name": "Sky One",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8wYWVneDQwZy05OTU",
+    "logo": "https://www.newscaststudio.com/wp-content/uploads/2021/07/sky-one-logo.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_2cc7045ab4bd",
+    "enabled": true,
+    "feedKey": "ch_2cc7045ab4bd",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2e8eed09840d",
+    "number": 149,
+    "name": "Sky Sci-Fi",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uMWJ2a3F1cC0xNzA5",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2022/06/14105945/Sky-SciFi-Main.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_2e8eed09840d",
+    "enabled": true,
+    "feedKey": "ch_2e8eed09840d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b06280b150af",
+    "number": 150,
+    "name": "Sky Sport 1 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84bnVtM2FmaC04MjA0",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_b06280b150af",
+    "enabled": true,
+    "feedKey": "ch_b06280b150af",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e0b0da298408",
+    "number": 151,
+    "name": "Sky Sport 2 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zbDl1bjk3ai00NDc0",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_e0b0da298408",
+    "enabled": true,
+    "feedKey": "ch_e0b0da298408",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_193a71c7058f",
+    "number": 152,
+    "name": "Sky Sport 3 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sZGZiczhnZi03ODg1",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_193a71c7058f",
+    "enabled": true,
+    "feedKey": "ch_193a71c7058f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b100cd08f815",
+    "number": 153,
+    "name": "Sky Sport 4 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9oMHJ5b3NmOS0xNzM2",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_b100cd08f815",
+    "enabled": true,
+    "feedKey": "ch_b100cd08f815",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_70ae6a537512",
+    "number": 154,
+    "name": "Sky Sport 5 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zMmY5dTRuby01ODI4",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_70ae6a537512",
+    "enabled": true,
+    "feedKey": "ch_70ae6a537512",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_83bd2236ebb7",
+    "number": 155,
+    "name": "Sky Sport 6 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di93Z2h1azlueC0xOTY3",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_83bd2236ebb7",
+    "enabled": true,
+    "feedKey": "ch_83bd2236ebb7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e956c397d86b",
+    "number": 156,
+    "name": "Sky Sport 7 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kb2h2Z2ExbC0yMjg0",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_e956c397d86b",
+    "enabled": true,
+    "feedKey": "ch_e956c397d86b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_80c393ed8e57",
+    "number": 157,
+    "name": "Sky Sport 8 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hc3hkZmN6ci05MDUw",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_80c393ed8e57",
+    "enabled": true,
+    "feedKey": "ch_80c393ed8e57",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c89dfc8c5d5f",
+    "number": 158,
+    "name": "Sky Sport 9 NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rYjFuZ2NlaS05OTcy",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_c89dfc8c5d5f",
+    "enabled": true,
+    "feedKey": "ch_c89dfc8c5d5f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4158e0bf40ae",
+    "number": 159,
+    "name": "Sky Sport 24",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8xazNja2IybS04Nzk2",
+    "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/dfa89629775883.5602ff6b0aacf.jpg",
+    "group": "Sports",
+    "tvgId": "ch_4158e0bf40ae",
+    "enabled": true,
+    "feedKey": "ch_4158e0bf40ae",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e7780ac9b06a",
+    "number": 160,
+    "name": "Sky Sport Arena IT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ha2ZsN2xzNi0yMjMx",
+    "logo": "https://api-stg.cloudstreamer.cc/?c=sky-sport-arena",
+    "group": "Sports",
+    "tvgId": "ch_e7780ac9b06a",
+    "enabled": true,
+    "feedKey": "ch_e7780ac9b06a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_408760fd1b5d",
+    "number": 161,
+    "name": "Sky Sport Bundesliga",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ic3Vkd3JmNC02NTM",
+    "logo": "https://www.sportsvideo.org/wp-content/uploads/2024/12/Sky-Sports-Bundesliega-featured.png",
+    "group": "Sports",
+    "tvgId": "ch_408760fd1b5d",
+    "enabled": true,
+    "feedKey": "ch_408760fd1b5d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8db3b7426441",
+    "number": 162,
+    "name": "Sky Sport Calcio IT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9naWIwdzI1ei0zNTc",
+    "logo": "https://i.postimg.cc/RhnJsRmT/Frame-10.png",
+    "group": "Sports",
+    "tvgId": "ch_8db3b7426441",
+    "enabled": true,
+    "feedKey": "ch_8db3b7426441",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ceb6b6f7a780",
+    "number": 163,
+    "name": "Sky Sport F1 Italia",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90NW1wbjE5Mi05Mjc",
+    "logo": "https://api-stg.cloudstreamer.cc/?c=sky-sport-f1-italia",
+    "group": "Sports",
+    "tvgId": "ch_ceb6b6f7a780",
+    "enabled": true,
+    "feedKey": "ch_ceb6b6f7a780",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c28fba47257e",
+    "number": 164,
+    "name": "Sky Sport Max IT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9qZmdrczl2dC03OTU4",
+    "logo": "https://api-stg.cloudstreamer.cc/?c=sky-sport-max",
+    "group": "Sports",
+    "tvgId": "ch_c28fba47257e",
+    "enabled": true,
+    "feedKey": "ch_c28fba47257e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_eb129473eff6",
+    "number": 165,
+    "name": "Sky Sport MotoGP IT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di96MWI5bndoci00ODEz",
+    "logo": "https://api-stg.cloudstreamer.cc/?c=sky-sport-motogp",
+    "group": "Sports",
+    "tvgId": "ch_eb129473eff6",
+    "enabled": true,
+    "feedKey": "ch_eb129473eff6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0c9196b3c494",
+    "number": 166,
+    "name": "Sky Sport Select NZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iNmNhMzE4OC04NDQ5",
+    "logo": "https://i.ibb.co/v4NvkZst/Untitled-design.png",
+    "group": "Sports",
+    "tvgId": "ch_0c9196b3c494",
+    "enabled": true,
+    "feedKey": "ch_0c9196b3c494",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_62dbbb315a41",
+    "number": 167,
+    "name": "Sky Sport Tennis IT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tc3NubG1qNi00MTcy",
+    "logo": "https://i.postimg.cc/rw53XXjJ/Frame-10-(1).png",
+    "group": "Sports",
+    "tvgId": "ch_62dbbb315a41",
+    "enabled": true,
+    "feedKey": "ch_62dbbb315a41",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7fa2166bd667",
+    "number": 168,
+    "name": "Sky Sport Uno",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wcWQ2cXg0Ny00NTIy",
+    "logo": "https://i.imgur.com/dnoy7mK.png",
+    "group": "Sports",
+    "tvgId": "ch_7fa2166bd667",
+    "enabled": true,
+    "feedKey": "ch_7fa2166bd667",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_7379cfb9d496",
+    "number": 169,
+    "name": "Sky Sports Action",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zeW02cTVpeS04Nzg",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/skysportsaction.png",
+    "group": "Sports",
+    "tvgId": "ch_7379cfb9d496",
+    "enabled": true,
+    "feedKey": "ch_7379cfb9d496",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_91a317056259",
+    "number": 170,
+    "name": "Sky Sports Cricket",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xZng0MDM4cC05NQ",
+    "logo": "https://e0.365dm.com/17/07/2048x1152/skysports-sky-sports-cricket-podcast-sky-cricket-podcast_4004801.jpg",
+    "group": "Sports",
+    "tvgId": "ch_91a317056259",
+    "enabled": true,
+    "feedKey": "ch_91a317056259",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2e8bd51a1742",
+    "number": 171,
+    "name": "Sky Sports F1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9mNTk2Zjk4ci02OTc3",
+    "logo": "https://e0.365dm.com/21/03/1600x900/skysports-f1-2021-graphic_5299452.png",
+    "group": "Sports",
+    "tvgId": "ch_2e8bd51a1742",
+    "enabled": true,
+    "feedKey": "ch_2e8bd51a1742",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_94ee84e03c5f",
+    "number": 172,
+    "name": "Sky Sports Football",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hODBxOGozaS0yMTg3",
+    "logo": "https://images.squarespace-cdn.com/content/v1/6380a5b12f7b6f632e16ce77/46d62da8-e650-4d2b-a5bc-48a5648edb8e/Beth_Mead.jpg",
+    "group": "Sports",
+    "tvgId": "ch_94ee84e03c5f",
+    "enabled": true,
+    "feedKey": "ch_94ee84e03c5f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_043fad245167",
+    "number": 173,
+    "name": "Sky Sports Golf",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8wYnlkdm1ncy00NzU1",
+    "logo": "https://e0.365dm.com/23/05/1600x900/skysports-golf-sky-sports-golf_6158933.jpg",
+    "group": "Sports",
+    "tvgId": "ch_043fad245167",
+    "enabled": true,
+    "feedKey": "ch_043fad245167",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_78c364c4edac",
+    "number": 174,
+    "name": "Sky Sports Main Event",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uNThhamdmeC00NzI",
+    "logo": "https://e0.365dm.com/17/07/1600x900/skysports-all-new-rebrand-f1-premier-league-golf-cricket_4001810.jpg",
+    "group": "Sports",
+    "tvgId": "ch_78c364c4edac",
+    "enabled": true,
+    "feedKey": "ch_78c364c4edac",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_fddef6b3530c",
+    "number": 175,
+    "name": "Sky Sports Mix",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rdDhqdXM1ZS03Njkz",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/Sky_Sports_Mix_Generic_ID_2017.webp",
+    "group": "Sports",
+    "tvgId": "ch_fddef6b3530c",
+    "enabled": true,
+    "feedKey": "ch_fddef6b3530c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a626aaf4573e",
+    "number": 176,
+    "name": "Sky Sports News",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zYXd0dXc0dC0xODAz",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/image.jpg",
+    "group": "Sports",
+    "tvgId": "ch_a626aaf4573e",
+    "enabled": true,
+    "feedKey": "ch_a626aaf4573e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_39754af8538a",
+    "number": 177,
+    "name": "Sky Sports Premier League",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9remQzaHJxei00MzE0",
+    "logo": "https://e0.365dm.com/25/06/2048x1152/skysports-premier-league-fixtures_6937276.jpg",
+    "group": "Sports",
+    "tvgId": "ch_39754af8538a",
+    "enabled": true,
+    "feedKey": "ch_39754af8538a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_4f64ddf0876e",
+    "number": 178,
+    "name": "Sky Sports Racing",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8yamx4NHA3ci01NTI",
+    "logo": "https://e0.365dm.com/23/07/2048x1152/skysports-racing-league-sky-sports-racing_6230990.jpg",
+    "group": "Sports",
+    "tvgId": "ch_4f64ddf0876e",
+    "enabled": true,
+    "feedKey": "ch_4f64ddf0876e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0143827a6138",
+    "number": 179,
+    "name": "Sky Sports Tennis",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ra2JiNXg4aS0xOTkx",
+    "logo": "https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437709.jpg",
+    "group": "Sports",
+    "tvgId": "ch_0143827a6138",
+    "enabled": true,
+    "feedKey": "ch_0143827a6138",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_47a060bfba37",
+    "number": 180,
+    "name": "Sky Sports+",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9qd3JqMmQ2cC04ODc0",
+    "logo": "https://e0.365dm.com/24/07/2048x1152/skysports-ssplus-sky-sports-plus_6644064.jpg",
+    "group": "Sports",
+    "tvgId": "ch_47a060bfba37",
+    "enabled": true,
+    "feedKey": "ch_47a060bfba37",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_b925b617d601",
+    "number": 181,
+    "name": "Sky Uno",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di93bWV4YWV6cC0zODE2",
+    "logo": "https://b.imgur.gg/EMkFu2s-336616838-e1fd487240eb7f937e344a3714569e0d2e25423f8178953150b879fa07366c37-d.avif",
+    "group": "Entertainment",
+    "tvgId": "ch_b925b617d601",
+    "enabled": true,
+    "feedKey": "ch_b925b617d601",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9267e88b2fb1",
+    "number": 182,
+    "name": "Sky Witness",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iamUycmFlMC04NA",
+    "logo": "https://i.imgur.com/arXl5qa.jpeg",
+    "group": "Entertainment",
+    "tvgId": "ch_9267e88b2fb1",
+    "enabled": true,
+    "feedKey": "ch_9267e88b2fb1",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6a78b36c7988",
+    "number": 183,
+    "name": "Sony Sports Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90b2FybmFvMy01MjU",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png",
+    "group": "Sports",
+    "tvgId": "ch_6a78b36c7988",
+    "enabled": true,
+    "feedKey": "ch_6a78b36c7988",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_cd9bc7a1bdfe",
+    "number": 184,
+    "name": "Sony Sports Network 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91bWljYXdnai02NTk4",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png",
+    "group": "Sports",
+    "tvgId": "ch_cd9bc7a1bdfe",
+    "enabled": true,
+    "feedKey": "ch_cd9bc7a1bdfe",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2cc1a8c44ecf",
+    "number": 185,
+    "name": "Sony Sports Network 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9paXQwZTdxcy02NTYw",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png",
+    "group": "Sports",
+    "tvgId": "ch_2cc1a8c44ecf",
+    "enabled": true,
+    "feedKey": "ch_2cc1a8c44ecf",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_d0437870b4f7",
+    "number": 186,
+    "name": "Sony Sports Network 4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9keGNsZnM5bi0yMTUx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png",
+    "group": "Sports",
+    "tvgId": "ch_d0437870b4f7",
+    "enabled": true,
+    "feedKey": "ch_d0437870b4f7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_da1e6aae81d4",
+    "number": 187,
+    "name": "Sony Sports Network 5",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vYXk5c3hhci0zOTg1",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/085457534.png",
+    "group": "Sports",
+    "tvgId": "ch_da1e6aae81d4",
+    "enabled": true,
+    "feedKey": "ch_da1e6aae81d4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_5861bb5eeaf7",
+    "number": 188,
+    "name": "Sport TV1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vcXE1Yzg2Zy03NTIx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png",
+    "group": "Sports",
+    "tvgId": "ch_5861bb5eeaf7",
+    "enabled": true,
+    "feedKey": "ch_5861bb5eeaf7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6623902eba73",
+    "number": 189,
+    "name": "Sport TV2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di82ZHc5cjIyYS03MTky",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png",
+    "group": "Sports",
+    "tvgId": "ch_6623902eba73",
+    "enabled": true,
+    "feedKey": "ch_6623902eba73",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_35f35ef94a15",
+    "number": 190,
+    "name": "Sport TV3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kYm8wOWp3aC01NDA0",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png",
+    "group": "Sports",
+    "tvgId": "ch_35f35ef94a15",
+    "enabled": true,
+    "feedKey": "ch_35f35ef94a15",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_69b3a8d22f46",
+    "number": 191,
+    "name": "Sport TV4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90MjE4d3d3ay0zMzYx",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png",
+    "group": "Sports",
+    "tvgId": "ch_69b3a8d22f46",
+    "enabled": true,
+    "feedKey": "ch_69b3a8d22f46",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_58e9de926c56",
+    "number": 192,
+    "name": "Sport TV5",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90d2czMWc4NC02Mzk0",
+    "logo": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/sportv-pt.png",
+    "group": "Sports",
+    "tvgId": "ch_58e9de926c56",
+    "enabled": true,
+    "feedKey": "ch_58e9de926c56",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a2f202b8da0b",
+    "number": 193,
+    "name": "SPORTDIGITAL FUSSBALL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di85Ym41bHI5ci01OTU5",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=70",
+    "group": "Entertainment",
+    "tvgId": "ch_a2f202b8da0b",
+    "enabled": true,
+    "feedKey": "ch_a2f202b8da0b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f5102675491a",
+    "number": 194,
+    "name": "Sportsnet 360",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8yeGxocWpyay02OTA1",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_f5102675491a",
+    "enabled": true,
+    "feedKey": "ch_f5102675491a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_927d03821ffa",
+    "number": 195,
+    "name": "Sportsnet East",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sZjY4eGdpdi01MzMw",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_927d03821ffa",
+    "enabled": true,
+    "feedKey": "ch_927d03821ffa",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_072cd9d4239d",
+    "number": 196,
+    "name": "Sportsnet ONE",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91OXh0aWt5Yy0zNTA1",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_072cd9d4239d",
+    "enabled": true,
+    "feedKey": "ch_072cd9d4239d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_51648d104f68",
+    "number": 197,
+    "name": "Sportsnet Ontario",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9kd2duazU2ci0yMTY1",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_51648d104f68",
+    "enabled": true,
+    "feedKey": "ch_51648d104f68",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9cfef35dd2b5",
+    "number": 198,
+    "name": "Sportsnet Pacific",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rbmZjajc0My04NTQ",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_9cfef35dd2b5",
+    "enabled": true,
+    "feedKey": "ch_9cfef35dd2b5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_5c6d74d49f00",
+    "number": 199,
+    "name": "Sportsnet West",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9sdzI2d3lvci0zMjI3",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_5c6d74d49f00",
+    "enabled": true,
+    "feedKey": "ch_5c6d74d49f00",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_824e8b2b4278",
+    "number": 200,
+    "name": "Sportsnet World",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84b2JuMjd2cC0xNDQ5",
+    "logo": "https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Media-Site-1.png",
+    "group": "Sports",
+    "tvgId": "ch_824e8b2b4278",
+    "enabled": true,
+    "feedKey": "ch_824e8b2b4278",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_75ff0f106310",
+    "number": 201,
+    "name": "STARZ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9tbXVxazNiNi02OTM0",
+    "logo": "https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png",
+    "group": "Movies",
+    "tvgId": "ch_75ff0f106310",
+    "enabled": true,
+    "feedKey": "ch_75ff0f106310",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_554d43c4acf6",
+    "number": 202,
+    "name": "STARZ Cinema",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di83a3NobHk4NC00NTUw",
+    "logo": "https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png",
+    "group": "Movies",
+    "tvgId": "ch_554d43c4acf6",
+    "enabled": true,
+    "feedKey": "ch_554d43c4acf6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_eb77c5b6747d",
+    "number": 203,
+    "name": "STARZ Comedy",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9wczdoemphei02ODMw",
+    "logo": "https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png",
+    "group": "Movies",
+    "tvgId": "ch_eb77c5b6747d",
+    "enabled": true,
+    "feedKey": "ch_eb77c5b6747d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_51a49995d58d",
+    "number": 204,
+    "name": "STARZ Kids and Family",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rNGNsM2dvMC04Nzc3",
+    "logo": "https://careers.starz.com/wp-content/uploads/2025/01/STARZ-LOGO-IMAGE.png",
+    "group": "Kids",
+    "tvgId": "ch_51a49995d58d",
+    "enabled": true,
+    "feedKey": "ch_51a49995d58d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_08bc024cd99f",
+    "number": 205,
+    "name": "SuperSport Cricket",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di83N2prZ3BqMi04MDU4",
+    "logo": "https://tim-streams.com/247img/supersport.png",
+    "group": "Sports",
+    "tvgId": "ch_08bc024cd99f",
+    "enabled": true,
+    "feedKey": "ch_08bc024cd99f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f0ba15ef0134",
+    "number": 206,
+    "name": "SuperSport LaLiga",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9rOGo1dWV5ei0yMjM1",
+    "logo": "https://tim-streams.com/247img/supersport.png",
+    "group": "Entertainment",
+    "tvgId": "ch_f0ba15ef0134",
+    "enabled": true,
+    "feedKey": "ch_f0ba15ef0134",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_0d77ceeef4aa",
+    "number": 207,
+    "name": "SuperSport MotorSport",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vMWdvMGJyby0xMTk4",
+    "logo": "https://tim-streams.com/247img/supersport.png",
+    "group": "Entertainment",
+    "tvgId": "ch_0d77ceeef4aa",
+    "enabled": true,
+    "feedKey": "ch_0d77ceeef4aa",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_63b19fe260da",
+    "number": 208,
+    "name": "SuperSport Premier League",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9vemRheGozNS03NzQy",
+    "logo": "https://tim-streams.com/247img/supersport.png",
+    "group": "Entertainment",
+    "tvgId": "ch_63b19fe260da",
+    "enabled": true,
+    "feedKey": "ch_63b19fe260da",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_cb09d8968b6d",
+    "number": 209,
+    "name": "SuperSport Rugby",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di80YWQ1dXp3by02MTY1",
+    "logo": "https://tim-streams.com/247img/supersport.png",
+    "group": "Entertainment",
+    "tvgId": "ch_cb09d8968b6d",
+    "enabled": true,
+    "feedKey": "ch_cb09d8968b6d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_fb8c0304103c",
+    "number": 210,
+    "name": "SYFY",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9leW1tZHZtMy04Mjk0",
+    "logo": "https://assets.goal.com/images/v3/blt1be56273baf0440d/syfy%20logo.jpg?auto=webp&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;format=pjpg&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;width=3840&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quality=60",
+    "group": "Entertainment",
+    "tvgId": "ch_fb8c0304103c",
+    "enabled": true,
+    "feedKey": "ch_fb8c0304103c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ef3687df42b8",
+    "number": 211,
+    "name": "TBS",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8ycnF2NmMzZy00MDY",
+    "logo": "https://cdn.sanity.io/images/1pn9obcz/production/a6971fbe09c85f2deeb480fc494a39219d039135-1920x1080.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_ef3687df42b8",
+    "enabled": true,
+    "feedKey": "ch_ef3687df42b8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c65391b6107e",
+    "number": 212,
+    "name": "TeenNick",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91bTAzenlpMi01Mw",
+    "logo": "https://i.ibb.co/3yCJDVrW/Teen-Nick-2023.webp",
+    "group": "Entertainment",
+    "tvgId": "ch_c65391b6107e",
+    "enabled": true,
+    "feedKey": "ch_c65391b6107e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_695aee67744e",
+    "number": 213,
+    "name": "Telemundo",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9oYTUzNWt6My04NzAx",
+    "logo": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_20/3352176/telemundo-social-default.png",
+    "group": "Entertainment",
+    "tvgId": "ch_695aee67744e",
+    "enabled": true,
+    "feedKey": "ch_695aee67744e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e96150a2570e",
+    "number": 214,
+    "name": "Tennis Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84MG5yaDY2MC0xMw",
+    "logo": "https://s10019.cdn.ncms.io/wp-content/uploads/2026/05/tenn2.jpg.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_e96150a2570e",
+    "enabled": true,
+    "feedKey": "ch_e96150a2570e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_d330f055884a",
+    "number": 215,
+    "name": "The Weather Channel",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pemd2OWRpMS00NDI5",
+    "logo": "https://i.ibb.co/bRJqL6WK/LWRBPBUMCVFA3-G5-Q4-ZH3-XJYDNY.avif",
+    "group": "News",
+    "tvgId": "ch_d330f055884a",
+    "enabled": true,
+    "feedKey": "ch_d330f055884a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_3288c124aab4",
+    "number": 216,
+    "name": "TNT",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8yc3p4NDFpay03MDc5",
+    "logo": "https://i.ytimg.com/vi/F-AHKcxi3pY/maxresdefault.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_3288c124aab4",
+    "enabled": true,
+    "feedKey": "ch_3288c124aab4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a97e4e499bf0",
+    "number": 217,
+    "name": "TNT Sports 1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9lMGx5cmtoci0xMDAy",
+    "logo": "https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_a97e4e499bf0",
+    "enabled": true,
+    "feedKey": "ch_a97e4e499bf0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_18c353114405",
+    "number": 218,
+    "name": "TNT Sports 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pdDdheXRxaC0xNTQw",
+    "logo": "https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_18c353114405",
+    "enabled": true,
+    "feedKey": "ch_18c353114405",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_a60b2929fb88",
+    "number": 219,
+    "name": "TNT Sports 3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iamFyenhmOS0xNzEz",
+    "logo": "https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_a60b2929fb88",
+    "enabled": true,
+    "feedKey": "ch_a60b2929fb88",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_87b184c21b81",
+    "number": 220,
+    "name": "TNT Sports 4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zdTJyZmhtcC04NDY4",
+    "logo": "https://cdn.mos.cms.futurecdn.net/y3oPitXYAwGJnyTHFYo5qB.jpeg",
+    "group": "Sports",
+    "tvgId": "ch_87b184c21b81",
+    "enabled": true,
+    "feedKey": "ch_87b184c21b81",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_e71725a65dcb",
+    "number": 221,
+    "name": "TruTV",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xcHdpaGhxMi02NTkw",
+    "logo": "https://i.ibb.co/DfGcnjXY/Header-tru-TV.webp",
+    "group": "Entertainment",
+    "tvgId": "ch_e71725a65dcb",
+    "enabled": true,
+    "feedKey": "ch_e71725a65dcb",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_2f0c5d5f1f91",
+    "number": 222,
+    "name": "TSN1",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pZW9kYmdqNS00OTgy",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_2f0c5d5f1f91",
+    "enabled": true,
+    "feedKey": "ch_2f0c5d5f1f91",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_89510b21737a",
+    "number": 223,
+    "name": "TSN2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uOGI2em5wYy00ODQx",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_89510b21737a",
+    "enabled": true,
+    "feedKey": "ch_89510b21737a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_3f01fdf16c45",
+    "number": 224,
+    "name": "TSN3",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9uazI4ZmJzeS01ODYz",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_3f01fdf16c45",
+    "enabled": true,
+    "feedKey": "ch_3f01fdf16c45",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_ec49306f36d1",
+    "number": 225,
+    "name": "TSN4",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9veW5kYnByby05NzU2",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_ec49306f36d1",
+    "enabled": true,
+    "feedKey": "ch_ec49306f36d1",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_6c488aed08f5",
+    "number": 226,
+    "name": "TSN5",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zZ2ZtbWxqZy04NTU2",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_6c488aed08f5",
+    "enabled": true,
+    "feedKey": "ch_6c488aed08f5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_aae98c9d5be0",
+    "number": 227,
+    "name": "TUDN",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9xMnU1dXJxMy0zOTEw",
+    "logo": "https://cdn.aptoide.com/imgs/e/e/6/ee65573e3ed2c5fcafa0191860afdf51_fgraphic.png",
+    "group": "Sports",
+    "tvgId": "ch_aae98c9d5be0",
+    "enabled": true,
+    "feedKey": "ch_aae98c9d5be0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_be83fd4b4152",
+    "number": 228,
+    "name": "TYC Sports Internacional",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ncTR5c2lmay0xMTU0",
+    "logo": "https://assets.goal.com/images/v3/blta396e76391fffdfa/TyC_Sports_logo.jpg",
+    "group": "Sports",
+    "tvgId": "ch_be83fd4b4152",
+    "enabled": true,
+    "feedKey": "ch_be83fd4b4152",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_8b1edf417ae7",
+    "number": 229,
+    "name": "UFC Fight Pass 24/7",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9jMmc2Z2d6bS0yOTgx",
+    "logo": "https://fightrecord.co.uk/wp-content/uploads/2020/12/ufc-fight-pass-lion-fight-muay-thai.jpg",
+    "group": "Sports",
+    "tvgId": "ch_8b1edf417ae7",
+    "enabled": true,
+    "feedKey": "ch_8b1edf417ae7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_37f650bd229d",
+    "number": 230,
+    "name": "UniMas",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9id21kZmQ1dS0zNzMz",
+    "logo": "https://www.cabletv.com/app/uploads/2026/01/UniMas-Channel-Guide.webp",
+    "group": "Entertainment",
+    "tvgId": "ch_37f650bd229d",
+    "enabled": true,
+    "feedKey": "ch_37f650bd229d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f424a8fab24d",
+    "number": 231,
+    "name": "Unite8 Sports 1 / ZEE CAFÉ",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di90bnh3bWtoYi0zMDAz",
+    "logo": "https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg",
+    "group": "Sports",
+    "tvgId": "ch_f424a8fab24d",
+    "enabled": true,
+    "feedKey": "ch_f424a8fab24d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_961ea3d9849d",
+    "number": 232,
+    "name": "Univision",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8xM2tuemFjaS04MDU2",
+    "logo": "https://tvnewscheck.com/wp-content/uploads/2018/08/Univision_logo_hi.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_961ea3d9849d",
+    "enabled": true,
+    "feedKey": "ch_961ea3d9849d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_71f623db24d1",
+    "number": 233,
+    "name": "USA Network",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ubG9jMzdzYy0yNjkz",
+    "logo": "https://variety.com/wp-content/uploads/2013/10/usa-network-logo1.jpg",
+    "group": "Entertainment",
+    "tvgId": "ch_71f623db24d1",
+    "enabled": true,
+    "feedKey": "ch_71f623db24d1",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_683b7168cb74",
+    "number": 234,
+    "name": "WAPA America",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9taTBpMDk0cy0xMjE",
+    "logo": "https://m.media-amazon.com/images/I/81AEkpHaIPL._SL1920_.png",
+    "group": "Entertainment",
+    "tvgId": "ch_683b7168cb74",
+    "enabled": true,
+    "feedKey": "ch_683b7168cb74",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_f24f59a22706",
+    "number": 235,
+    "name": "WAPA Deportes",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hYXRhb3g1Yi04MjY0",
+    "logo": "https://i.ibb.co/pBzhsJ17/WAPA-Deportes.jpg",
+    "group": "Sports",
+    "tvgId": "ch_f24f59a22706",
+    "enabled": true,
+    "feedKey": "ch_f24f59a22706",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_97127a13cdb7",
+    "number": 236,
+    "name": "Willow Cricket",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9zcGQ4Z3BvaC02NTg2",
+    "logo": "https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg",
+    "group": "Sports",
+    "tvgId": "ch_97127a13cdb7",
+    "enabled": true,
+    "feedKey": "ch_97127a13cdb7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_9282b9d0e267",
+    "number": 237,
+    "name": "Willow Cricket 2",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8xNHF1YXdkNS04ODE5",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/1920/1080/languages/WILLOW-2.jpg",
+    "group": "Sports",
+    "tvgId": "ch_9282b9d0e267",
+    "enabled": true,
+    "feedKey": "ch_9282b9d0e267",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ch_c395982df425",
+    "number": 238,
+    "name": "Ziggo Sport 1 NL",
+    "streamUrl": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pZ3Q5cmtnNy02NjIx",
+    "logo": "https://iili.io/o9kw1G2.png",
+    "group": "Sports",
+    "tvgId": "ch_c395982df425",
+    "enabled": true,
+    "feedKey": "ch_c395982df425",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  }
+]

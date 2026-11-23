@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BinTV — Admin</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛠</text></svg>">
+</head>
+<body>
+  <div id="token-gate" class="token-gate hidden">
+    <div class="card glass token-card">
+      <h2>Admin access</h2>
+      <p class="dim">This BinTV server is protected by ADMIN_TOKEN.</p>
+      <input id="token-input" type="password" placeholder="Admin token" autocomplete="current-password">
+      <div id="token-error" class="error-text"></div>
+      <button id="token-submit" class="btn btn-primary">Unlock</button>
+    </div>
+  </div>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="/">Bin<span>TV</span> Admin</a>
+      <span class="dim small" id="admin-upcoming"></span>
+      <span class="spacer"></span>
+      <a class="admin-link" href="/" title="Viewer">← Viewer</a>
+    </div>
+  </header>
+
+  <main class="admin-main">
+    <!-- 24/7 Channels -->
+    <section class="admin-section glass">
+      <div class="section-head">
+        <h2>24/7 Channels</h2>
+        <div class="section-actions">
+          <input id="admin-search-channels" type="search" placeholder="Filter…">
+          <button id="export-channels" class="btn">Export JSON</button>
+          <button id="channel-add" class="btn btn-primary">+ Add channel</button>
+        </div>
+      </div>
+      <div id="channels-table" class="row-list"></div>
+
+      <div id="channel-form" class="admin-form hidden">
+        <h3 id="channel-form-title">Add channel</h3>
+        <div class="form-grid">
+          <label>Name <input id="ch-name" type="text"></label>
+          <label>Number <input id="ch-number" type="number" min="1"></label>
+          <label>Group <input id="ch-group" type="text" placeholder="Movies, News, Kids…"></label>
+          <label>Logo URL <input id="ch-logo" type="url"></label>
+          <label class="span2">Stream URL <input id="ch-url" type="url" placeholder="https://… .m3u8"></label>
+          <label>tvg-id <input id="ch-tvgid" type="text"></label>
+          <label class="span2">Referer header <input id="ch-referer" type="text" placeholder="optional https://…"></label>
+          <label class="span2">User-Agent header <input id="ch-ua" type="text" placeholder="optional"></label>
+          <label class="check"><input id="ch-enabled" type="checkbox" checked> Enabled</label>
+        </div>
+        <div class="form-actions">
+          <button id="channel-save" class="btn btn-primary">Save</button>
+          <button id="channel-cancel" class="btn">Cancel</button>
+        </div>
+      </div>
+
+      <div class="import-box">
+        <h3>Import M3U</h3>
+        <textarea id="import-channels-text" rows="5" placeholder="#EXTM3U&#10;#EXTINF:-1 tvg-logo=&quot;…&quot; group-title=&quot;Movies&quot;,My Channel&#10;https://…"></textarea>
+        <div class="url-row">
+          <input id="import-channels-group" type="text" placeholder="Default group (optional)">
+          <button id="import-channels-btn" class="btn btn-primary">Import channels</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Events -->
+    <section class="admin-section glass">
+      <div class="section-head">
+        <h2>Events</h2>
+        <div class="section-actions">
+          <button id="export-events" class="btn">Export JSON</button>
+          <button id="event-add" class="btn btn-primary">+ Add event</button>
+        </div>
+      </div>
+      <div id="events-table" class="row-list"></div>
+
+      <div id="event-form" class="admin-form hidden">
+        <h3 id="event-form-title">Add event</h3>
+        <div class="form-grid">
+          <label>Title <input id="ev-title" type="text"></label>
+          <label>Category <input id="ev-category" type="text" placeholder="Football, UFC, NBA…"></label>
+          <label>League <input id="ev-league" type="text"></label>
+          <label>Home team <input id="ev-home" type="text"></label>
+          <label>Away team <input id="ev-away" type="text"></label>
+          <label>Logo URL <input id="ev-logo" type="url"></label>
+          <label>Poster URL <input id="ev-poster" type="url"></label>
+          <label>Starts (time zone) <select id="ev-tz"></select></label>
+          <label>Start <input id="ev-start" type="datetime-local"></label>
+          <label>End (UTC if left empty uses duration) <input id="ev-end" type="datetime-local"></label>
+          <label>Duration (minutes) <input id="ev-duration" type="number" min="1" value="120"></label>
+          <label class="span2">Referer header <input id="ev-referer" type="text" placeholder="optional"></label>
+          <label class="span2">User-Agent header <input id="ev-ua" type="text" placeholder="optional"></label>
+          <label class="check"><input id="ev-enabled" type="checkbox" checked> Enabled</label>
+        </div>
+        <div class="sources-box">
+          <strong>Sources</strong>
+          <div id="ev-sources"></div>
+          <button id="ev-add-source" class="btn">+ Add source</button>
+        </div>
+        <div class="form-actions">
+          <button id="event-save" class="btn btn-primary">Save</button>
+          <button id="event-cancel" class="btn">Cancel</button>
+        </div>
+      </div>
+
+      <div class="import-box">
+        <h3>Import M3U as events</h3>
+        <textarea id="import-events-text" rows="5" placeholder="#EXTM3U&#10;#EXTINF:-1 group-title=&quot;Football&quot;,Match A&#10;https://…"></textarea>
+        <div class="form-grid">
+          <label>Category <input id="import-events-category" type="text" placeholder="Football"></label>
+          <label>Time zone <select id="import-events-tz"></select></label>
+          <label>Start time <input id="import-events-start" type="datetime-local"></label>
+          <label>Duration (minutes) <input id="import-events-duration" type="number" min="1" value="120"></label>
+        </div>
+        <div class="form-actions">
+          <button id="import-events-btn" class="btn btn-primary">Import events</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Settings -->
+    <section class="admin-section glass">
+      <div class="section-head"><h2>Settings</h2></div>
+      <div class="form-grid">
+        <label>Pre-start window (min) <input id="set-prestart" type="number" min="0" max="240"></label>
+        <label>Post-end grace (min) <input id="set-grace" type="number" min="0" max="240"></label>
+        <label>Retention of ended events (hours) <input id="set-retention" type="number" min="1" max="720"></label>
+        <label>Default time zone <select id="set-tz"></select></label>
+        <label class="span2">Feed URL (BinTV Public API or JSON feed) <input id="set-feedurl" type="url" placeholder="https://api.bintv.link/api/public/bintvjson"></label>
+        <label>Feed poll interval (min, 0 = off) <input id="set-feedinterval" type="number" min="0" max="1440"></label>
+        <div class="span2" style="margin-top: 6px; display: flex; align-items: center; gap: 12px;">
+          <button id="feed-sync-btn" type="button" class="btn">⟳ Sync Feed Now</button>
+          <span id="feed-sync-status" class="dim small"></span>
+        </div>
+      </div>
+      <div class="form-actions">
+        <button id="settings-save" class="btn btn-primary">Save settings</button>
+      </div>
+    </section>
+
+    <!-- Playlist URLs -->
+    <section class="admin-section glass">
+      <div class="section-head"><h2>Playlist URLs</h2></div>
+      <div class="url-row"><input id="pl-url-247" type="text" readonly><button id="copy-url-247" class="btn btn-primary">Copy</button></div>
+      <div class="url-row"><input id="pl-url-events" type="text" readonly><button id="copy-url-events" class="btn btn-primary">Copy</button></div>
+    </section>
+  </main>
+
+  <script type="module" src="/js/admin.js"></script>
+</body>
+</html>

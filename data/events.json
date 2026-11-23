@@ -1,0 +1,1990 @@
+[
+  {
+    "id": "ev_b6009afee153",
+    "title": "India vs New Zealand",
+    "category": "Cricket",
+    "startTime": "2026-11-23T02:04:14.019Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "Sky Sport NZ",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di84bnVtM2FmaC04MjA0"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/g_ee40fb6a359f7363.jpg",
+    "poster": "https://api.bintv.link/nodelay/poster/g_ee40fb6a359f7363.jpg",
+    "enabled": true,
+    "feedKey": "ev_b6009afee153",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_a1f82b028446",
+    "title": "Thor Mini O's at Gatorback Cycle Park",
+    "category": "Motorsport",
+    "startTime": "2026-11-22T17:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "Floracing",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di8zNG53cTNxOS03NjMy"
+      }
+    ],
+    "logo": "https://d2779tscntxxsw.cloudfront.net/6af363f25054a.png",
+    "poster": "https://d2779tscntxxsw.cloudfront.net/6af363f25054a.png",
+    "enabled": true,
+    "feedKey": "ev_a1f82b028446",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f66b61bff7b4",
+    "title": "Edmonton Oilers @ St. Louis Blues",
+    "category": "Hockey",
+    "startTime": "2026-11-23T00:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "ESPN+",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9hMjR6OHEwZy02NTky"
+      }
+    ],
+    "logo": "https://tim-streams.com/img/nhl-401892770.png",
+    "poster": "https://tim-streams.com/img/nhl-401892770.png",
+    "enabled": true,
+    "feedKey": "ev_f66b61bff7b4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_de9e08a1da34",
+    "title": "Pittsburgh Penguins @ Dallas Stars",
+    "category": "Hockey",
+    "startTime": "2026-11-23T00:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "ESPN+",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di80amw2a3dudS0zMjky"
+      }
+    ],
+    "logo": "https://tim-streams.com/img/nhl-401892771.png",
+    "poster": "https://tim-streams.com/img/nhl-401892771.png",
+    "enabled": true,
+    "feedKey": "ev_de9e08a1da34",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c4857b6b69ff",
+    "title": "Chicago Blackhawks @ Vancouver Canucks",
+    "category": "Hockey",
+    "startTime": "2026-11-23T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "ESPN+",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di92b2lpZ25jMS0xOTcz"
+      }
+    ],
+    "logo": "https://tim-streams.com/img/nhl-401892772.png",
+    "poster": "https://tim-streams.com/img/nhl-401892772.png",
+    "enabled": true,
+    "feedKey": "ev_c4857b6b69ff",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f4462a1cfcd8",
+    "title": "Vikings @ 49ers",
+    "category": "American Football",
+    "startTime": "2026-11-23T01:20:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NBC",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9iZGw3bXkzNC00OTE"
+      }
+    ],
+    "logo": "https://tim-streams.com/img/nfl-401873077.png",
+    "poster": "https://tim-streams.com/img/nfl-401873077.png",
+    "enabled": true,
+    "feedKey": "ev_f4462a1cfcd8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8db56d83ca42",
+    "title": "Chicago Bulls vs Denver Nuggets",
+    "category": "Basketball",
+    "startTime": "2026-11-23T00:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NBA League Pass",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9ncjgwaXU0eC04NzM0"
+      },
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU5qazVPREV5TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527rjswd6ggt4ke.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527rjswd6ggt4ke.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8db56d83ca42",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_78d385d0dd05",
+    "title": "Instituto vs Huracan",
+    "category": "Soccer",
+    "startTime": "2026-11-23T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i2z2v5sxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i2z2v5sxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_78d385d0dd05",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_dfb16dbc86e8",
+    "title": "New York Knicks vs Indiana Pacers",
+    "category": "Basketball",
+    "startTime": "2026-11-23T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NBA League Pass",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di91aTNqajZsZS00MTM"
+      },
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE1qQTFORGcxTTE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq0esdrn36iekx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq0esdrn36iekx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_dfb16dbc86e8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_154901facfd9",
+    "title": "Golden State Warriors vs Boston Celtics",
+    "category": "Basketball",
+    "startTime": "2026-11-23T01:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NBA League Pass",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9zaG9ld2lraS5jbGljay9iaW50di9pY3YzMHZmbS04ODg0"
+      },
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56TTNPVEV4TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/9gkl6s6xpzlbmkx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/9gkl6s6xpzlbmkx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_154901facfd9",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_eabb7765bbd8",
+    "title": "Vancouver Whitecaps vs Real Salt Lake",
+    "category": "Soccer",
+    "startTime": "2026-11-23T01:40:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU9UUTBORFU0TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndqmli9xlxrhrkv.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndqmli9xlxrhrkv.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_eabb7765bbd8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_d5a5606ada63",
+    "title": "Nojima Stella vs Omiya Ardija Ventus",
+    "category": "Soccer",
+    "startTime": "2026-11-23T04:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9Ua3hPVFUzTjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek33i84l3xc9ko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek33i84l3xc9ko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_d5a5606ada63",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_21b4751117cf",
+    "title": "Albirex Niigata vs Sanfrecce Hiroshima Regina",
+    "category": "Soccer",
+    "startTime": "2026-11-23T04:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ME9UVTNNamN5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/l6kegi82lexbv75.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/l6kegi82lexbv75.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_21b4751117cf",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_9d905eed2ab9",
+    "title": "AC Nagano Parceiro Women vs Urawa",
+    "category": "Soccer",
+    "startTime": "2026-11-23T05:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EZ3pNRGN4TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/69759igp2jdagk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/69759igp2jdagk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_9d905eed2ab9",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_97a8abdcf5c5",
+    "title": "Beleza vs Inac Kobe Leonesa",
+    "category": "Soccer",
+    "startTime": "2026-11-23T06:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56TTNPVEV4TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i4d8pni47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i4d8pni47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_97a8abdcf5c5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_fbed5d8a29fe",
+    "title": "Yangon City vs Hantharwady Utd",
+    "category": "Soccer",
+    "startTime": "2026-11-23T09:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16ZzJNRFF5Tmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/8lk2direp99cz73.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/8lk2direp99cz73.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_fbed5d8a29fe",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_fe1d4a775287",
+    "title": "Chinland vs Ayeyawady",
+    "category": "Soccer",
+    "startTime": "2026-11-23T09:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9EVXdPRFF6TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/63kv9igde03cx7e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/63kv9igde03cx7e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_fe1d4a775287",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_84c384ac7ece",
+    "title": "S-Birds Women vs Hana 1Q Women",
+    "category": "Basketball",
+    "startTime": "2026-11-23T10:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9UYzFOakF6TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjvsz4n4ga8k9.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjvsz4n4ga8k9.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_84c384ac7ece",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_263bf85985d0",
+    "title": "LNZ Lebedyn vs Polissya Zhytomyr",
+    "category": "Soccer",
+    "startTime": "2026-11-23T11:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9EZ3hNak13TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/o07dni5z55ofmkn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/o07dni5z55ofmkn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_263bf85985d0",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_7ae125d486d6",
+    "title": "Chornomorets vs Dunaivtsi",
+    "category": "Soccer",
+    "startTime": "2026-11-23T11:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056Z3dPRGMwTWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09ilzllmheqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09ilzllmheqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_7ae125d486d6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_aa4459f107af",
+    "title": "Shandong Women vs SiChuan JinQiang Women",
+    "category": "Basketball",
+    "startTime": "2026-11-23T11:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU5qazVPREV5TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/34kgps1rwymseko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/34kgps1rwymseko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_aa4459f107af",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_db21b549431c",
+    "title": "Tajikistan U17 vs Croatia U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T12:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05UYzBPREE1TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i45zmxf47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i45zmxf47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_db21b549431c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c03d0b94e77e",
+    "title": "Spain U17 vs Fiji U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T12:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16azRNak13T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/9gklzi1wd9jhm7x.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/9gklzi1wd9jhm7x.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_c03d0b94e77e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_55e782441c56",
+    "title": "Real Kashmir vs Dempo",
+    "category": "Soccer",
+    "startTime": "2026-11-23T13:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EY3dOekV5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/69759ir3yzrigk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/69759ir3yzrigk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_55e782441c56",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_773e1fd03e83",
+    "title": "Senegal U17 vs Cuba U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T13:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M09Ea3dOVGMwTkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/o17pjio8d3ofy7j.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/o17pjio8d3ofy7j.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_773e1fd03e83",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_30d86238da34",
+    "title": "Neftchi Fargona vs Al Hilal",
+    "category": "Soccer",
+    "startTime": "2026-11-23T13:45:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d09EVTFNamc1TlY5MGMyTXViVE4xT0E"
+      },
+      {
+        "label": "NO DELAY 2",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056UXlPRFF5TWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/wv78xiv033gfokr.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/wv78xiv033gfokr.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_30d86238da34",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8b1686f44307",
+    "title": "FK Chelyabinsk vs CLB FK Leningradets",
+    "category": "Soccer",
+    "startTime": "2026-11-23T14:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56VTBOelUzT0Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i42elvf47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i42elvf47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8b1686f44307",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c45a185b8a03",
+    "title": "Italy U17 vs Ivory Coast U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05Ua3hOVEE0TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/g6763i5m80eso7r.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/g6763i5m80eso7r.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_c45a185b8a03",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_003336f33522",
+    "title": "Al Jeel vs Al-Saqer",
+    "category": "Soccer",
+    "startTime": "2026-11-23T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ME9UVTNNamN5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jr7owipg0wrfgq0.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jr7owipg0wrfgq0.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_003336f33522",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_bf84a41f4e94",
+    "title": "Morocco U17 vs China PR U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16ZzJNRFF5Tmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/m2q15izd3m4te76.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/m2q15izd3m4te76.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_bf84a41f4e94",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_e5122523126a",
+    "title": "Asteras Tripolis vs Aris Thessaloniki",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU56ZzROVEF3T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/8lk2dirzgzvaz73.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/8lk2dirzgzvaz73.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_e5122523126a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_dfb7f5d6390b",
+    "title": "Braga U23 vs Leixoes U23",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9EVXdPRFF6TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/oj7x9ix50vpt47g.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/oj7x9ix50vpt47g.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_dfb7f5d6390b",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_87b4c4c7b33c",
+    "title": "Steaua Bucuresti vs Chindia Targoviste",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5qSXlOalUzTlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/m2q15izydldfe76.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/m2q15izydldfe76.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_87b4c4c7b33c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_859f3f6ffd5c",
+    "title": "CLB Wadi Degla vs Al Ittihad Alexandria",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9EZ3hNak13TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i4g25gf47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i4g25gf47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_859f3f6ffd5c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_0e9b08696d45",
+    "title": "El Gouna vs Zamalek",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056Z3dPRGMwTWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/vmqy9iv43oobgk9.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/vmqy9iv43oobgk9.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_0e9b08696d45",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_382f9901f188",
+    "title": "CLB AL Rabeea Jeddah vs Dhamk",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EY3dOekV5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/9gklzi1x8w1sm7x.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/9gklzi1x8w1sm7x.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_382f9901f188",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_cfede85753c1",
+    "title": "Vietnam U17 vs New Zealand U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EZ3pNRGN4TVY5MGMyTXViVE4xT0E"
+      },
+      {
+        "label": "NO DELAY 2",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16azRNak13T1Y5MGMyTXViVE4xT0E"
+      },
+      {
+        "label": "NO DELAY 3",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d01qUTFOamsyTmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/vrqwni4mjl8f4qn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/vrqwni4mjl8f4qn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_cfede85753c1",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8804ab461988",
+    "title": "Mali U17 vs Belgium U17",
+    "category": "Soccer",
+    "startTime": "2026-11-23T15:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05UYzBPREE1TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/l6kegi805yyav75.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/l6kegi805yyav75.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8804ab461988",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c455afc13f51",
+    "title": "Al Shamal vs Al Ahli SC",
+    "category": "Soccer",
+    "startTime": "2026-11-23T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056UXlPRFF5TWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/69759igo10wagk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/69759igo10wagk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_c455afc13f51",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_d7e847107422",
+    "title": "Al Ain vs Esteghlal FC",
+    "category": "Soccer",
+    "startTime": "2026-11-23T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d09EVTFNamc1TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09ilv891teqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09ilv891teqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_d7e847107422",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_e678e8c65d11",
+    "title": "Ludogorets Razgrad vs Dunav Ruse",
+    "category": "Soccer",
+    "startTime": "2026-11-23T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56VTBOelUzT0Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/vrqwni453g6i4qn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/vrqwni453g6i4qn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_e678e8c65d11",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_dd2ffaee76fe",
+    "title": "Torino U19 vs Bologna U19",
+    "category": "Soccer",
+    "startTime": "2026-11-23T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/oj7x9ixlv8pu47g.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/oj7x9ixlv8pu47g.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_dd2ffaee76fe",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_dbeb06ed17d8",
+    "title": "Tractor vs Al Wasl",
+    "category": "Soccer",
+    "startTime": "2026-11-23T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M09Ea3dOVGMwTkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/m2q15izjm1mie76.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/m2q15izjm1mie76.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_dbeb06ed17d8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_0afbe0dc5fe1",
+    "title": "Basaksehir vs CLB Corum Belediyespor",
+    "category": "Soccer",
+    "startTime": "2026-11-23T17:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05Ua3hOVEE0TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/63kv9ign2l2sx7e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/63kv9ign2l2sx7e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_0afbe0dc5fe1",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_11877037a6b8",
+    "title": "Hammarby vs Goteborg",
+    "category": "Soccer",
+    "startTime": "2026-11-23T18:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056Z3dPRGMwTWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i4wv3nb47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i4wv3nb47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_11877037a6b8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_89e0cda7193c",
+    "title": "Orgryte vs Kalmar",
+    "category": "Soccer",
+    "startTime": "2026-11-23T18:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16ZzJNRFF5Tmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jr7owip3jyyigq0.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jr7owip3jyyigq0.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_89e0cda7193c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_cb4a6ee3c94f",
+    "title": "Brondby vs Midtjylland",
+    "category": "Soccer",
+    "startTime": "2026-11-23T18:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9EVXdPRFF6TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/j374oi0ywxofgqo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/j374oi0ywxofgqo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_cb4a6ee3c94f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_e7cbe9355b06",
+    "title": "Al-Ittihad FC vs CLB Pakhtakor",
+    "category": "Soccer",
+    "startTime": "2026-11-23T18:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05UYzBPREE1TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09ilv8nvheqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09ilv8nvheqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_e7cbe9355b06",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_a4345ce8906d",
+    "title": "CLB Al Quwa Al Jawiya vs CLB Al Gharafa",
+    "category": "Soccer",
+    "startTime": "2026-11-23T18:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5qSXlOalUzTlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi8egvzs879.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi8egvzs879.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_a4345ce8906d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_3dfe9e7178d4",
+    "title": "Ceuta vs CLB Almeria",
+    "category": "Soccer",
+    "startTime": "2026-11-23T19:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU56ZzROVEF3T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_3dfe9e7178d4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_1a43310e0ad4",
+    "title": "A.C. Monza vs ACF Fiorentina",
+    "category": "Soccer",
+    "startTime": "2026-11-23T19:45:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56VTBOelUzT0Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_1a43310e0ad4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_cbe97deed0b2",
+    "title": "Brentford vs Everton",
+    "category": "Soccer",
+    "startTime": "2026-11-23T20:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d01qUTFOamsyTmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/o07dni5pzy0fmkn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/o07dni5pzy0fmkn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_cbe97deed0b2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_26a86b7245c4",
+    "title": "CLB Levante vs Elche",
+    "category": "Soccer",
+    "startTime": "2026-11-23T20:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d09EVTFNamc1TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09ilz9n1beqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09ilz9n1beqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_26a86b7245c4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_32523499f28f",
+    "title": "CLB Gimnasia La Plata vs CLB Newells Old Boys",
+    "category": "Soccer",
+    "startTime": "2026-11-23T20:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9EZ3hNak13TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i3e3x0f47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i3e3x0f47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_32523499f28f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_87847f8f5a7f",
+    "title": "CLB Sport Club Internacional vs CLB Vitoria BA",
+    "category": "Soccer",
+    "startTime": "2026-11-23T22:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d01qUTFOamsyTmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/69759ign365cgk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/69759ign365cgk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_87847f8f5a7f",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_62b56fa007e5",
+    "title": "Botafogo RJ vs CLB Sao Paulo",
+    "category": "Soccer",
+    "startTime": "2026-11-23T23:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9EZ3hNak13TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/vrqwni49ozzh4qn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/vrqwni49ozzh4qn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_62b56fa007e5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8ea2d17c9590",
+    "title": "CLB Santos vs CLB Gremio",
+    "category": "Soccer",
+    "startTime": "2026-11-24T00:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU9UUTBORFU0TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i3nzr0bxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i3nzr0bxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8ea2d17c9590",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_47d0aadc46fd",
+    "title": "Philadelphia 76ers vs Portland Trail Blazers",
+    "category": "Basketball",
+    "startTime": "2026-11-24T00:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56TTNPVEV4TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527rjswd6o9h4ke.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527rjswd6o9h4ke.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_47d0aadc46fd",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_7c6e24526c81",
+    "title": "Indiana Pacers vs Oklahoma City Thunder",
+    "category": "Basketball",
+    "startTime": "2026-11-24T00:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE1qQTFORGcxTTE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/wv784sx4e0jcoqr.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/wv784sx4e0jcoqr.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_7c6e24526c81",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_ad440c372250",
+    "title": "Minnesota Timberwolves vs Brooklyn Nets",
+    "category": "Basketball",
+    "startTime": "2026-11-24T00:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU1EZzJOVFF4TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/34kgps1lwrxceko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/34kgps1lwrxceko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_ad440c372250",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_a8858553800a",
+    "title": "Chicago Bulls vs Cleveland Cavaliers",
+    "category": "Basketball",
+    "startTime": "2026-11-24T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9Ua3hPVFUzTjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/6975lsnp0o8ugk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/6975lsnp0o8ugk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_a8858553800a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_62fa39aa3c6a",
+    "title": "New Orleans Pelicans vs Phoenix suns",
+    "category": "Basketball",
+    "startTime": "2026-11-24T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9UYzFOakF6TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/8lk2ys6zyjvhz73.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/8lk2ys6zyjvhz73.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_62fa39aa3c6a",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c3bbc1950284",
+    "title": "St. Louis SC vs Los Angeles FC",
+    "category": "Soccer",
+    "startTime": "2026-11-24T01:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/63kv9i6mgxnbx7e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/63kv9i6mgxnbx7e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_c3bbc1950284",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_1b9f0c9a6f4d",
+    "title": "Houston Rockets vs Los Angeles Clippers",
+    "category": "Basketball",
+    "startTime": "2026-11-24T01:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU5qazVPREV5TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/63kvlsop21vax7e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/63kvlsop21vax7e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_1b9f0c9a6f4d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f9dc8c46c80d",
+    "title": "Alajuelense vs Cartagines",
+    "category": "Soccer",
+    "startTime": "2026-11-24T02:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU9UUTBORFU0TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/g6763i5or02io7r.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/g6763i5or02io7r.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_f9dc8c46c80d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_4bfe89420b62",
+    "title": "Los Angeles Lakers vs Utah Jazz",
+    "category": "Basketball",
+    "startTime": "2026-11-24T03:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56TTNPVEV4TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek3psd4121t9qo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek3psd4121t9qo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_4bfe89420b62",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_b899d64ab3e4",
+    "title": "Sacramento Kings vs San Antonio Spurs",
+    "category": "Basketball",
+    "startTime": "2026-11-24T03:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE1qQTFORGcxTTE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/o07dzsmrgxvbmkn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/o07dzsmrgxvbmkn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_b899d64ab3e4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_b813de0f02d3",
+    "title": "Newcastle Jets vs Kashiwa Reysol",
+    "category": "Soccer",
+    "startTime": "2026-11-24T07:45:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EZ3pNRGN4TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i3egn4fxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i3egn4fxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_b813de0f02d3",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_06fdc7f29406",
+    "title": "Persebaya vs PSBS Biak Numfor",
+    "category": "Soccer",
+    "startTime": "2026-11-24T09:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE9Ua3hPVFUzTjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi29vdxi879.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi29vdxi879.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_06fdc7f29406",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_743677ff3033",
+    "title": "Garudayaksa FC vs CLB PSS Sleman",
+    "category": "Soccer",
+    "startTime": "2026-11-24T09:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ME9UVTNNamN5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ezk96ijn6odu1kn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ezk96ijn6odu1kn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_743677ff3033",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_d55f636dfe83",
+    "title": "Kyoto Sanga vs CLB Pohang Steelers",
+    "category": "Soccer",
+    "startTime": "2026-11-24T10:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU1EZzJOVFF4TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/j374oi025o5igqo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/j374oi025o5igqo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_d55f636dfe83",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_ba6fd47329a7",
+    "title": "Perth Lynx Women vs UC Capitals Women",
+    "category": "Basketball",
+    "startTime": "2026-11-24T10:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9UYzFOakF6TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/oj7x6szpomxf47g.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/oj7x6szpomxf47g.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_ba6fd47329a7",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_7d47b3436b61",
+    "title": "Shanxi Xing Rui Women vs Wuhan Women",
+    "category": "Basketball",
+    "startTime": "2026-11-24T11:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4MU5qazVPREV5TUY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek3psd21jgt9qo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek3psd21jgt9qo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_7d47b3436b61",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_926b534fdb1e",
+    "title": "Cong An Ha Noi FC vs Vissel Kobe",
+    "category": "Soccer",
+    "startTime": "2026-11-24T12:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16azRNak13T1Y5MGMyTXViVE4xT0E"
+      },
+      {
+        "label": "NO DELAY 2",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d01qUTFOamsyTmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jr7owip5n38igq0.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jr7owip5n38igq0.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_926b534fdb1e",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_36f5383d3022",
+    "title": "Shanghai Port vs Buriram",
+    "category": "Soccer",
+    "startTime": "2026-11-24T12:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d09EVTFNamc1TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/34kgmior0d9aeko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/34kgmior0d9aeko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_36f5383d3022",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_df0ffaa10223",
+    "title": "Ratchaburi vs CLB Johor Darul Takzim",
+    "category": "Soccer",
+    "startTime": "2026-11-24T12:15:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056UXlPRFF5TWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/69759igo1lwagk2.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/69759igo1lwagk2.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_df0ffaa10223",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_ef61f6b53689",
+    "title": "Costa Rica U17 vs Ireland U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T12:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/527r3i45zpxc47e.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/527r3i45zpxc47e.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_ef61f6b53689",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_03959afb1998",
+    "title": "Venezuela U17 vs Romania U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T12:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EY3dOekV5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek33i8nw5xc9ko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek33i8nw5xc9ko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_03959afb1998",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_aa5349716ddf",
+    "title": "Arsenal U19 vs Dortmund U19",
+    "category": "Soccer",
+    "startTime": "2026-11-24T13:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05Ua3hOVEE0TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek33i8l8vlb9ko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek33i8l8vlb9ko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_aa5349716ddf",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_e673c7d5c863",
+    "title": "Japan U17 vs Srbija C.Gora U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T13:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU56ZzROVEF3T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ezk96i3z1eoh1kn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ezk96i3z1eoh1kn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_e673c7d5c863",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_b914959c8d7c",
+    "title": "Mexico U17 vs Cameroon U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T13:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M09Ea3dOVGMwTkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi83pg5b879.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi83pg5b879.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_b914959c8d7c",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f2a311399c61",
+    "title": "East Bengal vs Al Hussein",
+    "category": "Soccer",
+    "startTime": "2026-11-24T13:45:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9EVXdPRFF6TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/m2q15izjmnehe76.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/m2q15izjmnehe76.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_f2a311399c61",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_80682a95fc53",
+    "title": "Akron Togliatti vs CSKA Moscow",
+    "category": "Soccer",
+    "startTime": "2026-11-24T14:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ME9UVTNNamN5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek33i8w33lb9ko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek33i8w33lb9ko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_80682a95fc53",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_0ee91162bd39",
+    "title": "Al Riffa vs Al Zawraa",
+    "category": "Soccer",
+    "startTime": "2026-11-24T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05UYzBPREE1TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09i2x3ydseqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09i2x3ydseqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_0ee91162bd39",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_b00461211b0d",
+    "title": "Dominican U17 vs Chile U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EZ3pNRGN4TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/34kgmio560lseko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/34kgmio560lseko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_b00461211b0d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f9e0c9b23258",
+    "title": "Felgueiras U23 vs Viseu U23",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056Z3dPRGMwTWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/vrqwni4y3wdf4qn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/vrqwni4y3wdf4qn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_f9e0c9b23258",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_021ca572a6db",
+    "title": "Gagra vs CLB Dinamo Tbilisi",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16ZzJNRFF5Tmw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/j374oi0o1e4tgqo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/j374oi0o1e4tgqo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_021ca572a6db",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_aac31d5b4c28",
+    "title": "Smouha vs NBE SC",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE56VTBOelUzT0Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jr7owip09w4bgq0.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jr7owip09w4bgq0.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_aac31d5b4c28",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_1efa4d3276b4",
+    "title": "Brazil U17 vs Tanzania U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5qSXlOalUzTlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i3v0rvtxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i3v0rvtxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_1efa4d3276b4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_2b6465476ec2",
+    "title": "Real Madrid U19 vs PSV U19",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d09EVTFNamc1TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ezk96i3433ls1kn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ezk96i3433ls1kn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_2b6465476ec2",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_7514527bd438",
+    "title": "CLB U23 Rio Ave vs Uniao Leiria U23",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU9URXlNVFV5TlY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/9gklzi18rjgbm7x.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/9gklzi18rjgbm7x.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_7514527bd438",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_37759b67f8b8",
+    "title": "Manchester City U19 vs Napoli U19",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4d056UXlPRFF5TWw5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/j374oi0p00efgqo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/j374oi0p00efgqo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_37759b67f8b8",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_690a58b640af",
+    "title": "Honduras U17 vs Colombia U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M05Ua3hOVEE0TjE5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/j374oi0rm5lfgqo.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/j374oi0rm5lfgqo.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_690a58b640af",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_32f2458f2aff",
+    "title": "Ajman vs Al Ettifaq",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NU56ZzROVEF3T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/l6kegir9o1lsv75.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/l6kegir9o1lsv75.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_32f2458f2aff",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8f585ddc4e0d",
+    "title": "Algeria U17 vs Montenegro U17",
+    "category": "Soccer",
+    "startTime": "2026-11-24T15:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4eE5EY3dOekV5TkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/9gklzi1wdvjfm7x.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/9gklzi1wdvjfm7x.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8f585ddc4e0d",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_38a5288a2e13",
+    "title": "CLB Al Ahli vs Al Qadisiya",
+    "category": "Soccer",
+    "startTime": "2026-11-24T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4ek16azRNak13T1Y5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/34kgmior006teko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/34kgmior006teko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_38a5288a2e13",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_f4332e30ca42",
+    "title": "Al Seeb vs CLB AI Shorta",
+    "category": "Soccer",
+    "startTime": "2026-11-24T16:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4M09Ea3dOVGMwTkY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/l6kegi8jyp9uv75.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/l6kegi8jyp9uv75.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_f4332e30ca42",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_6c4738c318d6",
+    "title": "Zenit vs CLB Krylya Sovetov",
+    "category": "Soccer",
+    "startTime": "2026-11-24T16:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9hcGkuYmludHYubGluay9ub2RlbGF5L3BsYXllci9hSFIwY0hNNkx5OXNhWFpsTURVdWVXVm1jSGR0WXk1aGNIQXZiR2wyWlM4NE9EVXdPRFF6TVY5MGMyTXViVE4xT0E"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ezk96i31eelh1kn.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ezk96i31eelh1kn.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_6c4738c318d6",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+services:
+  bintv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: bintv:latest
+    container_name: bintv
+    restart: unless-stopped
+    ports:
+      - "${PORT:-3015}:3010"
+    environment:
+      - PORT=3010
+      - DEFAULT_TZ=${DEFAULT_TZ:-UTC}
+      - EVENT_FEED_URL=${EVENT_FEED_URL:-https://api.bintv.link/api/public/bintvjson}
+      - EVENT_FEED_INTERVAL_MINUTES=${EVENT_FEED_INTERVAL_MINUTES:-5}
+      - PRE_START_MINUTES=${PRE_START_MINUTES:-10}
+      - POST_END_GRACE_MINUTES=${POST_END_GRACE_MINUTES:-15}
+      - RETENTION_HOURS=${RETENTION_HOURS:-24}
+      # Optional: set ADMIN_TOKEN to password-protect admin APIs and /admin UI
+      # - ADMIN_TOKEN=${ADMIN_TOKEN:-}
+      # Optional: set PLAYLIST_TOKEN to require ?token=... on M3U/EPG URLs
+      # - PLAYLIST_TOKEN=${PLAYLIST_TOKEN:-}
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3010/api/status"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
