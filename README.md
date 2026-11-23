@@ -12,8 +12,6 @@
 
 BinTV turns a pair of JSON files into a complete IPTV backend: a polished web viewer for watching in the browser, and **dynamically generated M3U playlists plus XMLTV EPG** that plug straight into players like **TiviMate**, **IPTVnator**, VLC and Kodi. Every playlist request is regenerated from your data, so edits and the passage of time appear instantly — no restart, no cron.
 
-> BinTV is a player and playlist generator only. **It bundles no stream sources.** You supply your own legitimate stream URLs (streams you are licensed or otherwise entitled to use). It does not scrape, resolve or repackage third-party sites.
-
 ---
 
 ## Highlights
