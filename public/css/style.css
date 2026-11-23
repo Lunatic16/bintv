@@ -555,3 +555,5 @@ kbd { background: var(--bg-2); border: 1px solid var(--card-border); border-bott
 #player-panel.controls-hidden:fullscreen { cursor: none; }
 #player-panel.controls-hidden:fullscreen .player-info { opacity: 0; transform: translateY(12px); pointer-events: none; }
 #player-panel.controls-hidden:fullscreen .fs-reveal { height: 40px; cursor: none; }
+
+.resume-btn { pointer-events: auto; margin-top: 12px; max-width: 90%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

@@ -35,7 +35,7 @@ BinTV turns a pair of JSON files into a complete IPTV backend: a polished web vi
 **Web viewer** (`/`)
 
 - Dark, responsive app-style layout with a single accent color: a large player on the left and a browsing sidebar on the right (the player stays pinned on top on phones and tablets)
-- **24/7** and **Events** tabs, each with a live item count (the Events badge shows how many are live now); your last tab, group filter and last-watched channel are remembered
+- **24/7** and **Events** tabs, each with a live item count (the Events badge shows how many are live now); your last tab and group filter are remembered, and the idle player offers a **Resume** button for the last channel (it never autoplays on page load)
 - **Channel browsing:** compact numbered rows, group chips with counts, a **★ Favorites** filter, live search (Enter plays the first match), and the playing channel is highlighted and scrolled into view
 - **Event browsing:** compact rows with thumbnail, category, source count and LIVE badge or in-place countdown; sticky sections — *Live Now / Starting Soon / Later Today / Tomorrow / Upcoming* — plus category chips and a **Live** toggle
 - **Player:** one clean control bar (previous/next, play/pause, stop, volume, quality, picture-in-picture, fullscreen), a favorite star next to the title, click to pause, double-click for fullscreen, multi-source switcher

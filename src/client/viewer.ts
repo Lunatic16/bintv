@@ -961,6 +961,24 @@ function initPlaylistPanel(): void {
   el<HTMLButtonElement>('#qr-toggle-events').addEventListener('click', () => el<HTMLDivElement>('#qr-wrap-events').classList.toggle('hidden'));
 }
 
+/** Offer (never auto-start) the last watched item on the idle player. */
+function setupResume(): void {
+  const btn = el<HTMLButtonElement>('#resume-btn');
+  const lw = state.lastWatched;
+  let label = '';
+  if (lw?.type === '247') {
+    const ch = state.channels.find((c) => c.id === lw.id && c.enabled);
+    if (ch) label = `${ch.number} · ${ch.name}`;
+  } else if (lw?.type === 'event') {
+    const ev = state.events.find((e) => e.id === lw.id && e.computed.status === 'live');
+    if (ev) label = ev.title;
+  }
+  if (!label || !lw) { btn.classList.add('hidden'); return; }
+  btn.textContent = `▶ Resume ${label}`;
+  btn.classList.remove('hidden');
+  btn.onclick = () => playStream(lw.type, lw.id);
+}
+
 async function init(): Promise<void> {
   initPlayerControls();
   initPlaylistPanel();
@@ -1024,14 +1042,7 @@ async function init(): Promise<void> {
   try {
     state.lastWatched = JSON.parse(store.get('bintv_last_watched') || 'null') as null | { type: '247' | 'event'; id: string };
   } catch { state.lastWatched = null; }
-  if (state.lastWatched) {
-    if (state.lastWatched.type === '247' && state.channels.some((c) => c.id === state.lastWatched!.id && c.enabled)) {
-      playStream('247', state.lastWatched.id);
-      scrollToPlaying();
-    } else if (state.lastWatched.type === 'event' && state.events.some((e) => e.id === state.lastWatched!.id && e.computed.status === 'live')) {
-      playStream('event', state.lastWatched.id);
-    }
-  }
+  setupResume();
 
   // poll events every 45s; channels every 2 min
   window.setInterval(() => { void refreshEvents().catch(() => {}); }, 45_000);
