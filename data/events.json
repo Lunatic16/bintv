@@ -1,145 +1,5 @@
 [
   {
-    "id": "ev_1a43310e0ad4",
-    "title": "A.C. Monza vs ACF Fiorentina",
-    "category": "Soccer",
-    "startTime": "2026-11-23T19:45:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS84NzU0NzU3OF90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_1a43310e0ad4",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_e7cbe9355b06",
-    "title": "Al-Ittihad FC vs CLB Pakhtakor",
-    "category": "Soccer",
-    "startTime": "2026-11-23T18:15:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS83NTc0ODA5N190c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/edq09ilv8nvheqx.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/edq09ilv8nvheqx.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_e7cbe9355b06",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_a4345ce8906d",
-    "title": "CLB Al Quwa Al Jawiya vs CLB Al Gharafa",
-    "category": "Soccer",
-    "startTime": "2026-11-23T18:15:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8xNjIyNjU3NV90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi8egvzs879.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi8egvzs879.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_a4345ce8906d",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_11877037a6b8",
-    "title": "Hammarby vs Goteborg",
-    "category": "Soccer",
-    "startTime": "2026-11-23T18:00:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8wNzgwODc0Ml90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/527r3i4wv3nb47e.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/527r3i4wv3nb47e.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_11877037a6b8",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_89e0cda7193c",
-    "title": "Orgryte vs Kalmar",
-    "category": "Soccer",
-    "startTime": "2026-11-23T18:00:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8zMzg2MDQyNl90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/jr7owip3jyyigq0.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/jr7owip3jyyigq0.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_89e0cda7193c",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_cb4a6ee3c94f",
-    "title": "Brondby vs Midtjylland",
-    "category": "Soccer",
-    "startTime": "2026-11-23T18:00:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS84ODUwODQzMV90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/j374oi0ywxofgqo.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/j374oi0ywxofgqo.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_cb4a6ee3c94f",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
-    "id": "ev_3dfe9e7178d4",
-    "title": "Ceuta vs CLB Almeria",
-    "category": "Soccer",
-    "startTime": "2026-11-23T19:30:00.000Z",
-    "durationMinutes": 150,
-    "sources": [
-      {
-        "label": "NO DELAY",
-        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS85Nzg4NTAwOV90c2MubTN1OA"
-      }
-    ],
-    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
-    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
-    "enabled": true,
-    "feedKey": "ev_3dfe9e7178d4",
-    "headers": {
-      "referer": "https://bintv-sources.pages.dev/"
-    }
-  },
-  {
     "id": "ev_cbe97deed0b2",
     "title": "Brentford vs Everton",
     "category": "Soccer",
@@ -175,6 +35,46 @@
     "poster": "https://api.bintv.link/nodelay/poster/edq09ilz9n1beqx.jpg?v=3",
     "enabled": true,
     "feedKey": "ev_26a86b7245c4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_1a43310e0ad4",
+    "title": "A.C. Monza vs ACF Fiorentina",
+    "category": "Soccer",
+    "startTime": "2026-11-23T19:45:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS84NzU0NzU3OF90c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/xvkjoi8y9jmb879.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_1a43310e0ad4",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_3dfe9e7178d4",
+    "title": "Ceuta vs CLB Almeria",
+    "category": "Soccer",
+    "startTime": "2026-11-23T19:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS85Nzg4NTAwOV90c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/ndkz6i306n9uxq3.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_3dfe9e7178d4",
     "headers": {
       "referer": "https://bintv-sources.pages.dev/"
     }
@@ -2011,6 +1911,106 @@
     "poster": "https://api.bintv.link/nodelay/poster/xvkjoi2r4vrt879.jpg?v=3",
     "enabled": true,
     "feedKey": "ev_665ee010eae5",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_9a0261cad2dd",
+    "title": "Club Brugge U19 vs Liverpool U19",
+    "category": "Soccer",
+    "startTime": "2026-11-25T14:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8xNjIyNjU3NV90c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/m2q15izozz1be76.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/m2q15izozz1be76.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_9a0261cad2dd",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_e73196c813eb",
+    "title": "Tieu U19 vs Bayern U19",
+    "category": "Soccer",
+    "startTime": "2026-11-25T14:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS83NTkxNTA4N190c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/oj7x9ixoxx0i47g.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/oj7x9ixoxx0i47g.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_e73196c813eb",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_be95f28803ef",
+    "title": "Greece U17 vs Qatar U17",
+    "category": "Soccer",
+    "startTime": "2026-11-25T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8wMjQ1Njk2Nl90c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/jek33i8nw1xt9ko.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/jek33i8nw1xt9ko.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_be95f28803ef",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_c2b1772f2d32",
+    "title": "PanamaU17 vs Egypt U17",
+    "category": "Soccer",
+    "startTime": "2026-11-25T14:30:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS83NTc0ODA5N190c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/o17pjio8dnouy7j.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/o17pjio8dnouy7j.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_c2b1772f2d32",
+    "headers": {
+      "referer": "https://bintv-sources.pages.dev/"
+    }
+  },
+  {
+    "id": "ev_8478e0b3ee27",
+    "title": "El Gaish vs FC tuong lai",
+    "category": "Soccer",
+    "startTime": "2026-11-25T15:00:00.000Z",
+    "durationMinutes": 150,
+    "sources": [
+      {
+        "label": "NO DELAY",
+        "url": "https://bintv-sources.pages.dev/?id=aHR0cHM6Ly9saXZlMDUueWVmcHdtYy5hcHAvbGl2ZS8xODgxMjMwNF90c2MubTN1OA"
+      }
+    ],
+    "logo": "https://api.bintv.link/nodelay/poster/edq09il3je6ieqx.jpg?v=3",
+    "poster": "https://api.bintv.link/nodelay/poster/edq09il3je6ieqx.jpg?v=3",
+    "enabled": true,
+    "feedKey": "ev_8478e0b3ee27",
     "headers": {
       "referer": "https://bintv-sources.pages.dev/"
     }
